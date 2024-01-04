@@ -2,6 +2,7 @@ import numpy as np
 import operator
 
 scoreFile = './scores/nbaScoresClean.txt'
+saveFile = './rankings/NBAColley.txt'
 
 f = open(scoreFile,'r')
 lines = f.readlines()
@@ -45,8 +46,11 @@ for team in teams:
 sortedColley = sorted(ranks.items(), key = operator.itemgetter(1))
 sortedColley.reverse()
 
-template = "{0:20}|{1:10}"
-print(template.format("Team","Colley Score"))
+template = "{0:20}|  {1:10}\n"
+sf = open(saveFile, 'w')
+sf.write(template.format("Team","Colley Score"))
 
 for team in sortedColley:
-    print(template.format(team[0], float(team[1])))
+    sf.write(template.format(team[0], float(team[1])))
+
+sf.close()
