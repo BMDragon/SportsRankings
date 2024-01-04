@@ -1,0 +1,507 @@
+2023-10-24 @Denver                  119  LA Lakers               107            
+2023-10-24  Phoenix                 108 @Golden State            104            
+2023-10-25 @Charlotte               116  Atlanta                 110            
+2023-10-25 @Indiana                 143  Washington              120            
+2023-10-25  Boston                  108 @New York                104            
+2023-10-25 @Orlando                 116  Houston                  86            
+2023-10-25  Cleveland               114 @Brooklyn                113            
+2023-10-25 @Miami                   103  Detroit                 102            
+2023-10-25 @Toronto                  97  Minnesota                94            
+2023-10-25  Oklahoma City           124 @Chicago                 104            
+2023-10-25  New Orleans             111 @Memphis                 104            
+2023-10-25  Sacramento              130 @Utah                    114            
+2023-10-25  Dallas                  126 @San Antonio             119            
+2023-10-25 @LA Clippers             123  Portland                111            
+2023-10-26 @Milwaukee               118  Philadelphia            117            
+2023-10-26 @LA Lakers               100  Phoenix                  95            
+2023-10-27  Detroit                 111 @Charlotte                99            
+2023-10-27  Denver                  108 @Memphis                 104            
+2023-10-27  New York                126 @Atlanta                 120            
+2023-10-27 @Boston                  119  Miami                   111            
+2023-10-27  Oklahoma City           108 @Cleveland               105            
+2023-10-27 @Chicago                 104  Toronto                 103 O1         
+2023-10-27 @San Antonio             126  Houston                 122 O1         
+2023-10-27 @Dallas                  125  Brooklyn                120            
+2023-10-27 @Utah                    120  LA Clippers             118            
+2023-10-27  Orlando                 102 @Portland                 97            
+2023-10-27  Golden State            122 @Sacramento              114            
+2023-10-28 @Detroit                 118  Chicago                 102            
+2023-10-28 @New Orleans              96  New York                 87            
+2023-10-28 @Washington              113  Memphis                 106            
+2023-10-28  Indiana                 125 @Cleveland               113            
+2023-10-28  Philadelphia            114 @Toronto                 107            
+2023-10-28 @Minnesota               106  Miami                    90            
+2023-10-28 @Phoenix                 126  Utah                    104            
+2023-10-29  Denver                  128 @Oklahoma City            95            
+2023-10-29  Golden State            106 @Houston                  95            
+2023-10-29  Atlanta                 127 @Milwaukee               110            
+2023-10-29 @Philadelphia            126  Portland                 98            
+2023-10-29 @LA Clippers             123  San Antonio              83            
+2023-10-29 @Sacramento              132  LA Lakers               127 O1         
+2023-10-30  Brooklyn                133 @Charlotte               121            
+2023-10-30  Chicago                 112 @Indiana                 105            
+2023-10-30  Boston                  126 @Washington              107            
+2023-10-30 @Atlanta                 127  Minnesota               113            
+2023-10-30  Portland                 99 @Toronto                  91            
+2023-10-30  Dallas                  125 @Memphis                 110            
+2023-10-30 @Milwaukee               122  Miami                   114            
+2023-10-30  Golden State            130 @New Orleans             102            
+2023-10-30 @Oklahoma City           124  Detroit                 112            
+2023-10-30 @Denver                  110  Utah                    102            
+2023-10-30 @LA Lakers               106  Orlando                 103            
+2023-10-31  New York                109 @Cleveland                91            
+2023-10-31  San Antonio             115 @Phoenix                 114            
+2023-10-31 @LA Clippers             118  Orlando                 102            
+2023-11-01  Portland                110 @Detroit                 101            
+2023-11-01 @Toronto                 130  Milwaukee               111            
+2023-11-01 @Atlanta                 130  Washington              121            
+2023-11-01 @Boston                  155  Indiana                 104            
+2023-11-01  Brooklyn                109 @Miami                   105            
+2023-11-01  Cleveland                95 @New York                 89            
+2023-11-01  New Orleans             110 @Oklahoma City           106            
+2023-11-01 @Houston                 128  Charlotte               119            
+2023-11-01 @Minnesota               110  Denver                   89            
+2023-11-01 @Dallas                  114  Chicago                 105            
+2023-11-01 @Utah                    133  Memphis                 109            
+2023-11-01 @Golden State            102  Sacramento              101            
+2023-11-01 @LA Lakers               130  LA Clippers             125 O1         
+2023-11-02 @Philadelphia            114  Toronto                  99            
+2023-11-02 @New Orleans             125  Detroit                 116            
+2023-11-02  Orlando                 115 @Utah                    113            
+2023-11-02  San Antonio             132 @Phoenix                 121            
+2023-11-03 @Indiana                 121  Cleveland               116            
+2023-11-03 @Milwaukee               110  New York                105            
+2023-11-03  Brooklyn                109 @Chicago                 107            
+2023-11-03 @Miami                   121  Washington              114            
+2023-11-03  Golden State            141 @Oklahoma City           139            
+2023-11-03 @Denver                  125  Dallas                  114            
+2023-11-03 @Portland                115  Memphis                 113 O1         
+2023-11-04 @Philadelphia            112  Phoenix                 100            
+2023-11-04  Charlotte               125 @Indiana                 124            
+2023-11-04  Atlanta                 123 @New Orleans             105            
+2023-11-04 @Orlando                 120  LA Lakers               101            
+2023-11-04  Boston                  124 @Brooklyn                114            
+2023-11-04 @Houston                 107  Sacramento               89            
+2023-11-04 @Minnesota               123  Utah                     95            
+2023-11-04 @Denver                  123  Chicago                 101            
+2023-11-05  Phoenix                 120 @Detroit                 106            
+2023-11-05  Toronto                 123 @San Antonio             116 O1         
+2023-11-05 @Cleveland               115  Golden State            104            
+2023-11-05 @Dallas                  124  Charlotte               118            
+2023-11-05  Memphis                 112 @Portland                100            
+2023-11-06  Golden State            120 @Detroit                 109            
+2023-11-06 @Indiana                 152  San Antonio             111            
+2023-11-06  Dallas                  117 @Orlando                 102            
+2023-11-06 @Philadelphia            146  Washington              128            
+2023-11-06  Milwaukee               129 @Brooklyn                125            
+2023-11-06 @Miami                   108  LA Lakers               107            
+2023-11-06 @New York                111  LA Clippers              97            
+2023-11-06 @Chicago                 130  Utah                    113            
+2023-11-06 @Houston                 122  Sacramento               97            
+2023-11-06 @Minnesota               114  Boston                  109 O1         
+2023-11-06 @Oklahoma City           126  Atlanta                 117            
+2023-11-06 @Denver                  134  New Orleans             116            
+2023-11-08  Washington              132 @Charlotte               116            
+2023-11-08 @Indiana                 134  Utah                    118            
+2023-11-08 @Philadelphia            106  Boston                  103            
+2023-11-08 @Brooklyn                100  LA Clippers              93            
+2023-11-08 @New York                126  San Antonio             105            
+2023-11-08  Phoenix                 116 @Chicago                 115 O1         
+2023-11-08 @Houston                 128  LA Lakers                94            
+2023-11-08  Miami                   108 @Memphis                 102            
+2023-11-08 @Milwaukee               120  Detroit                 118            
+2023-11-08 @Minnesota               122  New Orleans             101            
+2023-11-08 @Oklahoma City           128  Cleveland               120            
+2023-11-08  Toronto                 127 @Dallas                  116            
+2023-11-08 @Denver                  108  Golden State            105            
+2023-11-08 @Sacramento              121  Portland                118 O1         
+2023-11-09 @Indiana                 126  Milwaukee               124            
+2023-11-09  Atlanta                 120  Orlando                 119           Mexico City 
+2023-11-10  Philadelphia            114 @Detroit                 106            
+2023-11-10  Charlotte               124 @Washington              117            
+2023-11-10 @Boston                  121  Brooklyn                107            
+2023-11-10 @Houston                 104  New Orleans             101            
+2023-11-10  Utah                    127 @Memphis                 121            
+2023-11-10  Minnesota               117 @San Antonio             110            
+2023-11-10 @Dallas                  144  LA Clippers             126            
+2023-11-10  LA Lakers               122 @Phoenix                 119            
+2023-11-10 @Sacramento              105  Oklahoma City            98            
+2023-11-11 @Orlando                 112  Milwaukee                97            
+2023-11-11 @Boston                  117  Toronto                  94            
+2023-11-11  Miami                   117 @Atlanta                 109            
+2023-11-11  Cleveland               118 @Golden State            110            
+2023-11-12 @New York                129  Charlotte               107            
+2023-11-12 @Brooklyn                102  Washington               94            
+2023-11-12  Memphis                 105 @LA Clippers             101            
+2023-11-12 @Philadelphia            137  Indiana                 126            
+2023-11-12 @Chicago                 119  Detroit                 108            
+2023-11-12 @Houston                 107  Denver                  104            
+2023-11-12  Dallas                  136 @New Orleans             124            
+2023-11-12  Miami                   118 @San Antonio             113            
+2023-11-12  Oklahoma City           111 @Phoenix                  99            
+2023-11-12  Minnesota               116 @Golden State            110            
+2023-11-12 @LA Lakers               116  Portland                110            
+2023-11-13 @Boston                  114  New York                 98            
+2023-11-13 @Toronto                 111  Washington              107            
+2023-11-13 @Milwaukee               118  Chicago                 109            
+2023-11-13 @Sacramento              132  Cleveland               120            
+2023-11-14  Miami                   111 @Charlotte               105            
+2023-11-14  Atlanta                 126 @Detroit                 120            
+2023-11-14  Indiana                 132 @Philadelphia            126            
+2023-11-14 @Brooklyn                124  Orlando                 104            
+2023-11-14 @Oklahoma City           123  San Antonio              87            
+2023-11-14 @New Orleans             131  Dallas                  110            
+2023-11-14 @Utah                    115  Portland                 99            
+2023-11-14 @Denver                  111  LA Clippers             108            
+2023-11-14  Minnesota               104 @Golden State            101            
+2023-11-14 @LA Lakers               134  Memphis                 107            
+2023-11-15  Dallas                  130 @Washington              117            
+2023-11-15  New York                116 @Atlanta                 114            
+2023-11-15  Boston                  117 @Philadelphia            107            
+2023-11-15  Milwaukee               128 @Toronto                 112            
+2023-11-15  Orlando                  96 @Chicago                  94            
+2023-11-15 @Phoenix                 133  Minnesota               115            
+2023-11-15  Sacramento              125 @LA Lakers               110            
+2023-11-15  Cleveland               109 @Portland                 95            
+2023-11-16 @Miami                   122  Brooklyn                115            
+2023-11-16  Oklahoma City           128 @Golden State            109            
+2023-11-17  Milwaukee               130 @Charlotte                99            
+2023-11-17  New York                120 @Washington               99            
+2023-11-17  Philadelphia            126 @Atlanta                 116            
+2023-11-17 @Cleveland               108  Detroit                 100            
+2023-11-17  Sacramento              129 @San Antonio             120            
+2023-11-17  Boston                  108 @Toronto                 105            
+2023-11-17  Orlando                 103 @Chicago                  97            
+2023-11-17 @New Orleans             115  Denver                  110            
+2023-11-17  LA Lakers               107 @Portland                 95            
+2023-11-17  Phoenix                 131 @Utah                    128            
+2023-11-17 @LA Clippers             106  Houston                 100            
+2023-11-18  New York                122 @Charlotte               108            
+2023-11-18  Minnesota               121 @New Orleans             120            
+2023-11-18 @Chicago                 102  Miami                    97            
+2023-11-18 @Milwaukee               132  Dallas                  125            
+2023-11-18  Memphis                 120 @San Antonio             108            
+2023-11-18  Oklahoma City           130 @Golden State            123 O1         
+2023-11-19  Philadelphia            121 @Brooklyn                 99            
+2023-11-19 @Toronto                 142  Detroit                 113            
+2023-11-19  Orlando                 128 @Indiana                 116            
+2023-11-19 @Cleveland               121  Denver                  109            
+2023-11-19  Sacramento              129 @Dallas                  113            
+2023-11-19  Boston                  102 @Memphis                 100            
+2023-11-19  Phoenix                 140 @Utah                    137 O2         
+2023-11-19  Oklahoma City           134 @Portland                 91            
+2023-11-19 @LA Lakers               105  Houston                 104            
+2023-11-20 @Charlotte               121  Boston                  118 O1         
+2023-11-20  Denver                  107 @Detroit                 103            
+2023-11-20  Milwaukee               142 @Washington              129            
+2023-11-20  Miami                   118 @Chicago                 100            
+2023-11-20 @Minnesota               117  New York                100            
+2023-11-20 @New Orleans             129  Sacramento               93            
+2023-11-20  LA Clippers             124 @San Antonio              99            
+2023-11-20 @Golden State            121  Houston                 116            
+2023-11-21 @Orlando                 126  Toronto                 107            
+2023-11-21  Indiana                 157 @Atlanta                 152            
+2023-11-21  Cleveland               122 @Philadelphia            119 O1         
+2023-11-21 @Phoenix                 120  Portland                107            
+2023-11-21 @LA Lakers               131  Utah                     99            
+2023-11-22 @Charlotte               117  Washington              114            
+2023-11-22 @Orlando                 124  Denver                  119            
+2023-11-22 @Atlanta                 147  Brooklyn                145 O1         
+2023-11-22 @Boston                  119  Milwaukee               116            
+2023-11-22  Miami                   129 @Cleveland                96            
+2023-11-22  Toronto                 132 @Indiana                 131            
+2023-11-22 @Houston                 111  Memphis                  91            
+2023-11-22 @Minnesota               112  Philadelphia             99            
+2023-11-22 @New Orleans             117  Sacramento              112            
+2023-11-22 @Oklahoma City           116  Chicago                 102            
+2023-11-22  LA Clippers             109 @San Antonio             102            
+2023-11-22 @Phoenix                 123  Golden State            115            
+2023-11-22 @Portland                121  Utah                    105            
+2023-11-22  Dallas                  104 @LA Lakers               101            
+2023-11-24 @Orlando                 113  Boston                   96            
+2023-11-24  Phoenix                 110 @Memphis                  89            
+2023-11-24 @New York                100  Miami                    98            
+2023-11-24 @Toronto                 121  Chicago                 108            
+2023-11-24 @Houston                 105  Denver                   86            
+2023-11-24 @Indiana                 136  Detroit                 113            
+2023-11-24 @Milwaukee               131  Washington              128            
+2023-11-24  Sacramento              124 @Minnesota               111            
+2023-11-24 @Golden State            118  San Antonio             112            
+2023-11-24  New Orleans             116 @LA Clippers             106            
+2023-11-25  Philadelphia            127 @Oklahoma City           123            
+2023-11-25 @Brooklyn                112  Miami                    97            
+2023-11-25  Atlanta                 136 @Washington              108            
+2023-11-25  LA Lakers               121 @Cleveland               115            
+2023-11-25 @Utah                    105  New Orleans             100            
+2023-11-25 @LA Clippers             107  Dallas                   88            
+2023-11-26 @Milwaukee               108  Portland                102            
+2023-11-26 @Boston                  113  Atlanta                 103            
+2023-11-26  Minnesota               119 @Memphis                  97            
+2023-11-26  Phoenix                 116 @New York                113            
+2023-11-26 @Orlando                 130  Charlotte               117            
+2023-11-26 @Brooklyn                118  Chicago                 109            
+2023-11-26 @Cleveland               105  Toronto                 102            
+2023-11-26 @Denver                  132  San Antonio             120            
+2023-11-27  Washington              126 @Detroit                 107            
+2023-11-27  Portland                114 @Indiana                 110            
+2023-11-27 @Philadelphia            138  LA Lakers                94            
+2023-11-27 @Utah                    114  New Orleans             112            
+2023-11-27  Denver                  113 @LA Clippers             104            
+2023-11-28 @Boston                  124  Chicago                  97            
+2023-11-28 @Brooklyn                115  Toronto                 103            
+2023-11-28 @Cleveland               128  Atlanta                 105            
+2023-11-28  Milwaukee               131 @Miami                   124            
+2023-11-28 @New York                115  Charlotte                91            
+2023-11-28 @Minnesota               106  Oklahoma City           103            
+2023-11-28 @Dallas                  121  Houston                 115            
+2023-11-28 @Sacramento              124  Golden State            123            
+2023-11-29  LA Lakers               133 @Detroit                 107            
+2023-11-29 @Orlando                 139  Washington              120            
+2023-11-29 @Toronto                 112  Phoenix                 105            
+2023-11-29 @Memphis                 105  Utah                     91            
+2023-11-29 @New Orleans             124  Philadelphia            114            
+2023-11-29 @Denver                  134  Houston                 124            
+2023-11-29  LA Clippers             131 @Sacramento              117            
+2023-11-30  Portland                103 @Cleveland                95            
+2023-11-30  Charlotte               129 @Brooklyn                128            
+2023-11-30 @Miami                   142  Indiana                 132            
+2023-11-30 @New York                118  Detroit                 112            
+2023-11-30 @Chicago                 120  Milwaukee               113 O1         
+2023-11-30 @Minnesota               101  Utah                     90            
+2023-11-30 @Oklahoma City           133  LA Lakers               110            
+2023-11-30  Atlanta                 137 @San Antonio             135            
+2023-11-30 @Golden State            120  LA Clippers             114            
+2023-12-01 @Orlando                 130  Washington              125            
+2023-12-01 @Boston                  125  Philadelphia            119            
+2023-12-01  Memphis                 108 @Dallas                   94            
+2023-12-01  New York                119 @Toronto                 106            
+2023-12-01 @New Orleans             121  San Antonio             106            
+2023-12-01  Denver                  119 @Phoenix                 111            
+2023-12-02 @LA Clippers             113  Golden State            112            
+2023-12-02  Minnesota               123 @Charlotte               117            
+2023-12-02 @Brooklyn                129  Orlando                 101            
+2023-12-02  Cleveland               110 @Detroit                 101            
+2023-12-02 @Chicago                 124  New Orleans             118            
+2023-12-02  Indiana                 144 @Miami                   129            
+2023-12-02 @Milwaukee               132  Atlanta                 121            
+2023-12-02  Oklahoma City           126 @Dallas                  120            
+2023-12-02 @Phoenix                 116  Memphis                 109            
+2023-12-02 @Utah                    118  Portland                113 O1         
+2023-12-02 @Sacramento              123  Denver                  117            
+2023-12-02 @LA Lakers               107  Houston                  97            
+2023-12-04 @Indiana                 122  Boston                  112 P          
+2023-12-04  New Orleans             127 @Sacramento              117 P          
+2023-12-05 @Milwaukee               146  New York                122 P          
+2023-12-05 @LA Lakers               106  Phoenix                 103 P          
+2023-12-06 @Cleveland               121  Orlando                 111            
+2023-12-06  Memphis                 116 @Detroit                 102            
+2023-12-06  Philadelphia            131 @Washington              126            
+2023-12-06  Brooklyn                114 @Atlanta                 113            
+2023-12-06 @Minnesota               102  San Antonio              94            
+2023-12-06  Miami                   112 @Toronto                 103            
+2023-12-06 @Chicago                 111  Charlotte               100            
+2023-12-06 @Houston                 110  Oklahoma City           101            
+2023-12-06 @Dallas                  147  Utah                     97            
+2023-12-06 @Golden State            110  Portland                106            
+2023-12-06 @LA Clippers             111  Denver                  102            
+2023-12-07  Indiana                 128 @Milwaukee               119 P          
+2023-12-07 @LA Lakers               133  New Orleans              89 P          
+2023-12-08 @Orlando                 123  Detroit                  91            
+2023-12-08 @Philadelphia            125  Atlanta                 114            
+2023-12-08 @Charlotte               119  Toronto                 116            
+2023-12-08 @Brooklyn                124  Washington               97            
+2023-12-08  Cleveland               111 @Miami                    99            
+2023-12-08 @Oklahoma City           138  Golden State            136 O1         
+2023-12-08  Minnesota               127 @Memphis                 103            
+2023-12-08  Chicago                 121 @San Antonio             112            
+2023-12-08  Houston                 114 @Denver                  106            
+2023-12-08  Dallas                  125 @Portland                112            
+2023-12-08  LA Clippers             117 @Utah                    103            
+2023-12-08 @Boston                  133  New York                123            
+2023-12-08  Sacramento              114 @Phoenix                 106            
+2023-12-09 @LA Lakers               123  Indiana                 109 P        In-season Tournament Championship  
+2023-12-11  Miami                   116 @Charlotte               114            
+2023-12-11  Indiana                 131 @Detroit                 123            
+2023-12-11 @Orlando                 104  Cleveland                94            
+2023-12-11 @Philadelphia            146  Washington              101            
+2023-12-11  Denver                  129 @Atlanta                 122            
+2023-12-11 @New York                136  Toronto                 130            
+2023-12-11 @Houston                  93  San Antonio              82            
+2023-12-11  Dallas                  120 @Memphis                 113            
+2023-12-11 @Milwaukee               133  Chicago                 129 O1         
+2023-12-11 @New Orleans             121  Minnesota               107            
+2023-12-11 @Oklahoma City           134  Utah                    120            
+2023-12-11 @Sacramento              131  Brooklyn                118            
+2023-12-11 @LA Clippers             132  Portland                127            
+2023-12-12 @Boston                  120  Cleveland               113            
+2023-12-12 @Dallas                  127  LA Lakers               125            
+2023-12-12  Denver                  114 @Chicago                 106            
+2023-12-12 @Phoenix                 119  Golden State            116            
+2023-12-12 @LA Clippers             119  Sacramento               99            
+2023-12-13  Philadelphia            129 @Detroit                 111            
+2023-12-13  New Orleans             142 @Washington              122            
+2023-12-13 @Miami                   115  Charlotte               104            
+2023-12-13 @Toronto                 135  Atlanta                 128            
+2023-12-13 @Houston                 117  Memphis                 104            
+2023-12-13 @Milwaukee               140  Indiana                 126            
+2023-12-13  LA Lakers               122 @San Antonio             119            
+2023-12-13  Brooklyn                116 @Phoenix                 112            
+2023-12-13 @Utah                    117  New York                113            
+2023-12-14 @Boston                  116  Cleveland               107            
+2023-12-14  Chicago                 124 @Miami                   116            
+2023-12-14  Minnesota               119 @Dallas                  101            
+2023-12-14 @Denver                  124  Brooklyn                101            
+2023-12-14  Utah                    122 @Portland                114            
+2023-12-14 @Sacramento              128  Oklahoma City           123            
+2023-12-14 @LA Clippers             121  Golden State            113            
+2023-12-15  New Orleans             112 @Charlotte               107            
+2023-12-15 @Philadelphia            124  Detroit                  92            
+2023-12-15 @Washington              137  Indiana                 123            
+2023-12-15 @Boston                  128  Orlando                 111            
+2023-12-15 @San Antonio             129  LA Lakers               115            
+2023-12-15  Atlanta                 125 @Toronto                 104            
+2023-12-15  Houston                 103 @Memphis                  96            
+2023-12-15  New York                139 @Phoenix                 122            
+2023-12-16 @Milwaukee               146  Detroit                 114            
+2023-12-16  Philadelphia            135 @Charlotte                82            
+2023-12-16 @Cleveland               127  Atlanta                 119            
+2023-12-16 @Miami                   118  Chicago                 116            
+2023-12-16 @Minnesota               127  Indiana                 109            
+2023-12-16 @Golden State            124  Brooklyn                120            
+2023-12-16  Oklahoma City           118 @Denver                  117            
+2023-12-16  Dallas                  131 @Portland                120            
+2023-12-16 @Sacramento              125  Utah                    104            
+2023-12-16 @LA Clippers             144  New York                122            
+2023-12-17 @Boston                  114  Orlando                  97            
+2023-12-17  New Orleans             146 @San Antonio             110            
+2023-12-17 @Milwaukee               128  Houston                 119            
+2023-12-17 @Phoenix                 112  Washington              108            
+2023-12-17  Golden State            118 @Portland                114            
+2023-12-18 @Cleveland               135  Houston                 130 O1         
+2023-12-18  LA Clippers             151 @Indiana                 127            
+2023-12-18  Chicago                 108 @Philadelphia            104            
+2023-12-18 @Atlanta                 130  Detroit                 124            
+2023-12-18  Minnesota               112 @Miami                   108            
+2023-12-18 @Toronto                 114  Charlotte                99            
+2023-12-18 @Oklahoma City           116  Memphis                  97            
+2023-12-18 @Denver                  130  Dallas                  104            
+2023-12-18 @Utah                    125  Brooklyn                108            
+2023-12-18 @Sacramento              143  Washington              131            
+2023-12-18  New York                114 @LA Lakers               109            
+2023-12-19  Memphis                 115 @New Orleans             113            
+2023-12-19 @Milwaukee               132  San Antonio             119            
+2023-12-19 @Golden State            132  Boston                  126 O1         
+2023-12-19 @Portland                109  Phoenix                 104            
+2023-12-20 @Cleveland               124  Utah                    116            
+2023-12-20 @Indiana                 144  Charlotte               113            
+2023-12-20  Miami                   115 @Orlando                 106            
+2023-12-20 @Philadelphia            127  Minnesota               113            
+2023-12-20  New York                121 @Brooklyn                102            
+2023-12-20  Denver                  113 @Toronto                 104            
+2023-12-20 @Chicago                 124  LA Lakers               108            
+2023-12-20  Atlanta                 134 @Houston                 127            
+2023-12-20  LA Clippers             120 @Dallas                  111            
+2023-12-20  Boston                  144 @Sacramento              119            
+2023-12-21  Utah                    119 @Detroit                 111            
+2023-12-21  New Orleans             123 @Cleveland               104            
+2023-12-21 @Chicago                 114  San Antonio              95            
+2023-12-21 @Memphis                 116  Indiana                 103            
+2023-12-21 @Milwaukee               118  Orlando                 114            
+2023-12-21 @Oklahoma City           134  LA Clippers             115            
+2023-12-21 @Minnesota               118  LA Lakers               111            
+2023-12-21  Washington              118 @Portland                117            
+2023-12-22 @Philadelphia            121  Toronto                 111            
+2023-12-22  Denver                  122 @Brooklyn                117            
+2023-12-22 @Houston                 122  Dallas                   96            
+2023-12-22 @Miami                   122  Atlanta                 113            
+2023-12-22 @Golden State            129  Washington              118            
+2023-12-22 @Sacramento              120  Phoenix                 105            
+2023-12-23  Milwaukee               130 @New York                111            
+2023-12-23  Boston                  145 @LA Clippers             108            
+2023-12-23  Denver                  102 @Charlotte                95            
+2023-12-23  Orlando                 117 @Indiana                 110            
+2023-12-23  Houston                 106 @New Orleans             104            
+2023-12-23  Memphis                 125 @Atlanta                 119            
+2023-12-23 @Brooklyn                126  Detroit                 115            
+2023-12-23  Utah                    126 @Toronto                 119            
+2023-12-23  Cleveland               109 @Chicago                  95            
+2023-12-23  LA Lakers               129 @Oklahoma City           120            
+2023-12-23 @Dallas                  144  San Antonio             119            
+2023-12-23 @Golden State            126  Portland                106            
+2023-12-23  Minnesota               110 @Sacramento               98            
+2023-12-25 @New York                129  Milwaukee               122            
+2023-12-25 @Denver                  120  Golden State            114            
+2023-12-25  Boston                  126 @LA Lakers               115            
+2023-12-25 @Miami                   119  Philadelphia            113            
+2023-12-25  Dallas                  128 @Phoenix                 114            
+2023-12-26  Brooklyn                118 @Detroit                 112            
+2023-12-26  Orlando                 127 @Washington              119            
+2023-12-26 @Chicago                 118  Atlanta                 113            
+2023-12-26  Indiana                 123 @Houston                 117            
+2023-12-26  Memphis                 116 @New Orleans             115 O1         
+2023-12-26 @Oklahoma City           129  Minnesota               106            
+2023-12-26  Utah                    130 @San Antonio             118            
+2023-12-26 @Portland                130  Sacramento              113            
+2023-12-26 @LA Clippers             113  Charlotte               104            
+2023-12-27  Philadelphia            112 @Orlando                  92            
+2023-12-27  Toronto                 132 @Washington              102            
+2023-12-27  Milwaukee               144 @Brooklyn                122            
+2023-12-27  Phoenix                 129 @Houston                 113            
+2023-12-27 @Oklahoma City           129  New York                120            
+2023-12-27  Cleveland               113 @Dallas                  110            
+2023-12-28 @Boston                  128  Detroit                 122 O1         
+2023-12-28  Indiana                 120 @Chicago                 104            
+2023-12-28 @Minnesota               118  Dallas                  110            
+2023-12-28 @New Orleans             112  Utah                    105            
+2023-12-28 @Denver                  142  Memphis                 105            
+2023-12-28  Miami                   114 @Golden State            102            
+2023-12-28  San Antonio             118 @Portland                105            
+2023-12-28 @LA Lakers               133  Charlotte               112            
+2023-12-29 @Orlando                 117  New York                108            
+2023-12-29 @Washington              110  Brooklyn                104            
+2023-12-29  Sacramento              117 @Atlanta                 110            
+2023-12-29 @Boston                  120  Toronto                 118            
+2023-12-29  Milwaukee               119 @Cleveland               111            
+2023-12-29  Philadelphia            131 @Houston                 127            
+2023-12-29  Oklahoma City           119 @Denver                   93            
+2023-12-29 @Phoenix                 133  Charlotte               119            
+2023-12-29 @Portland                134  San Antonio             128            
+2023-12-29 @LA Clippers             117  Memphis                 106            
+2023-12-30 @Utah                    117  Miami                   109            
+2023-12-30 @Detroit                 129  Toronto                 127            
+2023-12-30 @Indiana                 140  New York                126            
+2023-12-30 @Chicago                 105  Philadelphia             92            
+2023-12-30 @Minnesota               108  LA Lakers               106            
+2023-12-30  Dallas                  132 @Golden State            122            
+2023-12-31  Atlanta                 130 @Washington              126            
+2023-12-31 @New Orleans             129  LA Lakers               109            
+2023-12-31 @Oklahoma City           124  Brooklyn                108            
+2023-12-31  Boston                  134 @San Antonio             101            
+2023-12-31  Sacramento              123 @Memphis                  92            
+2023-12-31 @Phoenix                 112  Orlando                 107            
+2024-01-01 @New York                112  Minnesota               106            
+2024-01-01 @Toronto                 124  Cleveland               121            
+2024-01-01 @Houston                 136  Detroit                 113            
+2024-01-01  Indiana                 122 @Milwaukee               113            
+2024-01-01 @Denver                  111  Charlotte                93            
+2024-01-01 @Phoenix                 109  Portland                 88            
+2024-01-01 @Utah                    127  Dallas                   90            
+2024-01-01 @LA Clippers             121  Miami                   104            
+2024-01-02 @Philadelphia            110  Chicago                  97            
+2024-01-02 @Memphis                 106  San Antonio              98            
+2024-01-02 @New Orleans             112  Brooklyn                 85            
+2024-01-02 @Oklahoma City           127  Boston                  123            
+2024-01-02 @Golden State            121  Orlando                 115            
+2024-01-02  Charlotte               111 @Sacramento              104            
+2024-01-03 @Cleveland               140  Washington              101            
+2024-01-03 @Indiana                 142  Milwaukee               130            
+2024-01-03 @Atlanta                 141  Oklahoma City           138            
+2024-01-03 @New York                116  Chicago                 100            
+2024-01-03 @Houston                 112  Brooklyn                101            
+2024-01-03  Toronto                 116 @Memphis                 111            
+2024-01-03  New Orleans             117 @Minnesota               106            
+2024-01-03 @Dallas                  126  Portland                 97            
+2024-01-03  LA Clippers             131 @Phoenix                 122            
+2024-01-03 @Utah                    154  Detroit                 148 O1         
+2024-01-03  Miami                   110 @LA Lakers                96            
+2024-01-03 @Sacramento              138  Orlando                 135 O2         

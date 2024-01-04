@@ -1,0 +1,538 @@
+NumTeams: 30
+Atlanta
+Boston
+Brooklyn
+Charlotte
+Chicago
+Cleveland
+Dallas
+Denver
+Detroit
+Golden State
+Houston
+Indiana
+LA Clippers
+LA Lakers
+Memphis
+Miami
+Milwaukee
+Minnesota
+New Orleans
+New York
+Oklahoma City
+Orlando
+Philadelphia
+Phoenix
+Portland
+Sacramento
+San Antonio
+Toronto
+Utah
+Washington
+Denver                  119  LA Lakers               107
+Phoenix                 108 @Golden State            104
+Charlotte               116  Atlanta                 110
+Indiana                 143  Washington              120
+Boston                  108 @New York                104
+Orlando                 116  Houston                  86
+Cleveland               114 @Brooklyn                113
+Miami                   103  Detroit                 102
+Toronto                  97  Minnesota                94
+Oklahoma City           124 @Chicago                 104
+New Orleans             111 @Memphis                 104
+Sacramento              130 @Utah                    114
+Dallas                  126 @San Antonio             119
+LA Clippers             123  Portland                111
+Milwaukee               118  Philadelphia            117
+LA Lakers               100  Phoenix                  95
+Detroit                 111 @Charlotte                99
+Denver                  108 @Memphis                 104
+New York                126 @Atlanta                 120
+Boston                  119  Miami                   111
+Oklahoma City           108 @Cleveland               105
+Chicago                 104  Toronto                 103
+San Antonio             126  Houston                 122
+Dallas                  125  Brooklyn                120
+Utah                    120  LA Clippers             118
+Orlando                 102 @Portland                 97
+Golden State            122 @Sacramento              114
+Detroit                 118  Chicago                 102
+New Orleans              96  New York                 87
+Washington              113  Memphis                 106
+Indiana                 125 @Cleveland               113
+Philadelphia            114 @Toronto                 107
+Minnesota               106  Miami                    90
+Phoenix                 126  Utah                    104
+Denver                  128 @Oklahoma City            95
+Golden State            106 @Houston                  95
+Atlanta                 127 @Milwaukee               110
+Philadelphia            126  Portland                 98
+LA Clippers             123  San Antonio              83
+Sacramento              132  LA Lakers               127
+Brooklyn                133 @Charlotte               121
+Chicago                 112 @Indiana                 105
+Boston                  126 @Washington              107
+Atlanta                 127  Minnesota               113
+Portland                 99 @Toronto                  91
+Dallas                  125 @Memphis                 110
+Milwaukee               122  Miami                   114
+Golden State            130 @New Orleans             102
+Oklahoma City           124  Detroit                 112
+Denver                  110  Utah                    102
+LA Lakers               106  Orlando                 103
+New York                109 @Cleveland                91
+San Antonio             115 @Phoenix                 114
+LA Clippers             118  Orlando                 102
+Portland                110 @Detroit                 101
+Toronto                 130  Milwaukee               111
+Atlanta                 130  Washington              121
+Boston                  155  Indiana                 104
+Brooklyn                109 @Miami                   105
+Cleveland                95 @New York                 89
+New Orleans             110 @Oklahoma City           106
+Houston                 128  Charlotte               119
+Minnesota               110  Denver                   89
+Dallas                  114  Chicago                 105
+Utah                    133  Memphis                 109
+Golden State            102  Sacramento              101
+LA Lakers               130  LA Clippers             125
+Philadelphia            114  Toronto                  99
+New Orleans             125  Detroit                 116
+Orlando                 115 @Utah                    113
+San Antonio             132 @Phoenix                 121
+Indiana                 121  Cleveland               116
+Milwaukee               110  New York                105
+Brooklyn                109 @Chicago                 107
+Miami                   121  Washington              114
+Golden State            141 @Oklahoma City           139
+Denver                  125  Dallas                  114
+Portland                115  Memphis                 113
+Philadelphia            112  Phoenix                 100
+Charlotte               125 @Indiana                 124
+Atlanta                 123 @New Orleans             105
+Orlando                 120  LA Lakers               101
+Boston                  124 @Brooklyn                114
+Houston                 107  Sacramento               89
+Minnesota               123  Utah                     95
+Denver                  123  Chicago                 101
+Phoenix                 120 @Detroit                 106
+Toronto                 123 @San Antonio             116
+Cleveland               115  Golden State            104
+Dallas                  124  Charlotte               118
+Memphis                 112 @Portland                100
+Golden State            120 @Detroit                 109
+Indiana                 152  San Antonio             111
+Dallas                  117 @Orlando                 102
+Philadelphia            146  Washington              128
+Milwaukee               129 @Brooklyn                125
+Miami                   108  LA Lakers               107
+New York                111  LA Clippers              97
+Chicago                 130  Utah                    113
+Houston                 122  Sacramento               97
+Minnesota               114  Boston                  109
+Oklahoma City           126  Atlanta                 117
+Denver                  134  New Orleans             116
+Washington              132 @Charlotte               116
+Indiana                 134  Utah                    118
+Philadelphia            106  Boston                  103
+Brooklyn                100  LA Clippers              93
+New York                126  San Antonio             105
+Phoenix                 116 @Chicago                 115
+Houston                 128  LA Lakers                94
+Miami                   108 @Memphis                 102
+Milwaukee               120  Detroit                 118
+Minnesota               122  New Orleans             101
+Oklahoma City           128  Cleveland               120
+Toronto                 127 @Dallas                  116
+Denver                  108  Golden State            105
+Sacramento              121  Portland                118
+Indiana                 126  Milwaukee               124
+Atlanta                 120  Orlando                 119
+Philadelphia            114 @Detroit                 106
+Charlotte               124 @Washington              117
+Boston                  121  Brooklyn                107
+Houston                 104  New Orleans             101
+Utah                    127 @Memphis                 121
+Minnesota               117 @San Antonio             110
+Dallas                  144  LA Clippers             126
+LA Lakers               122 @Phoenix                 119
+Sacramento              105  Oklahoma City            98
+Orlando                 112  Milwaukee                97
+Boston                  117  Toronto                  94
+Miami                   117 @Atlanta                 109
+Cleveland               118 @Golden State            110
+New York                129  Charlotte               107
+Brooklyn                102  Washington               94
+Memphis                 105 @LA Clippers             101
+Philadelphia            137  Indiana                 126
+Chicago                 119  Detroit                 108
+Houston                 107  Denver                  104
+Dallas                  136 @New Orleans             124
+Miami                   118 @San Antonio             113
+Oklahoma City           111 @Phoenix                  99
+Minnesota               116 @Golden State            110
+LA Lakers               116  Portland                110
+Boston                  114  New York                 98
+Toronto                 111  Washington              107
+Milwaukee               118  Chicago                 109
+Sacramento              132  Cleveland               120
+Miami                   111 @Charlotte               105
+Atlanta                 126 @Detroit                 120
+Indiana                 132 @Philadelphia            126
+Brooklyn                124  Orlando                 104
+Oklahoma City           123  San Antonio              87
+New Orleans             131  Dallas                  110
+Utah                    115  Portland                 99
+Denver                  111  LA Clippers             108
+Minnesota               104 @Golden State            101
+LA Lakers               134  Memphis                 107
+Dallas                  130 @Washington              117
+New York                116 @Atlanta                 114
+Boston                  117 @Philadelphia            107
+Milwaukee               128 @Toronto                 112
+Orlando                  96 @Chicago                  94
+Phoenix                 133  Minnesota               115
+Sacramento              125 @LA Lakers               110
+Cleveland               109 @Portland                 95
+Miami                   122  Brooklyn                115
+Oklahoma City           128 @Golden State            109
+Milwaukee               130 @Charlotte                99
+New York                120 @Washington               99
+Philadelphia            126 @Atlanta                 116
+Cleveland               108  Detroit                 100
+Sacramento              129 @San Antonio             120
+Boston                  108 @Toronto                 105
+Orlando                 103 @Chicago                  97
+New Orleans             115  Denver                  110
+LA Lakers               107 @Portland                 95
+Phoenix                 131 @Utah                    128
+LA Clippers             106  Houston                 100
+New York                122 @Charlotte               108
+Minnesota               121 @New Orleans             120
+Chicago                 102  Miami                    97
+Milwaukee               132  Dallas                  125
+Memphis                 120 @San Antonio             108
+Oklahoma City           130 @Golden State            123
+Philadelphia            121 @Brooklyn                 99
+Toronto                 142  Detroit                 113
+Orlando                 128 @Indiana                 116
+Cleveland               121  Denver                  109
+Sacramento              129 @Dallas                  113
+Boston                  102 @Memphis                 100
+Phoenix                 140 @Utah                    137
+Oklahoma City           134 @Portland                 91
+LA Lakers               105  Houston                 104
+Charlotte               121  Boston                  118
+Denver                  107 @Detroit                 103
+Milwaukee               142 @Washington              129
+Miami                   118 @Chicago                 100
+Minnesota               117  New York                100
+New Orleans             129  Sacramento               93
+LA Clippers             124 @San Antonio              99
+Golden State            121  Houston                 116
+Orlando                 126  Toronto                 107
+Indiana                 157 @Atlanta                 152
+Cleveland               122 @Philadelphia            119
+Phoenix                 120  Portland                107
+LA Lakers               131  Utah                     99
+Charlotte               117  Washington              114
+Orlando                 124  Denver                  119
+Atlanta                 147  Brooklyn                145
+Boston                  119  Milwaukee               116
+Miami                   129 @Cleveland                96
+Toronto                 132 @Indiana                 131
+Houston                 111  Memphis                  91
+Minnesota               112  Philadelphia             99
+New Orleans             117  Sacramento              112
+Oklahoma City           116  Chicago                 102
+LA Clippers             109 @San Antonio             102
+Phoenix                 123  Golden State            115
+Portland                121  Utah                    105
+Dallas                  104 @LA Lakers               101
+Orlando                 113  Boston                   96
+Phoenix                 110 @Memphis                  89
+New York                100  Miami                    98
+Toronto                 121  Chicago                 108
+Houston                 105  Denver                   86
+Indiana                 136  Detroit                 113
+Milwaukee               131  Washington              128
+Sacramento              124 @Minnesota               111
+Golden State            118  San Antonio             112
+New Orleans             116 @LA Clippers             106
+Philadelphia            127 @Oklahoma City           123
+Brooklyn                112  Miami                    97
+Atlanta                 136 @Washington              108
+LA Lakers               121 @Cleveland               115
+Utah                    105  New Orleans             100
+LA Clippers             107  Dallas                   88
+Milwaukee               108  Portland                102
+Boston                  113  Atlanta                 103
+Minnesota               119 @Memphis                  97
+Phoenix                 116 @New York                113
+Orlando                 130  Charlotte               117
+Brooklyn                118  Chicago                 109
+Cleveland               105  Toronto                 102
+Denver                  132  San Antonio             120
+Washington              126 @Detroit                 107
+Portland                114 @Indiana                 110
+Philadelphia            138  LA Lakers                94
+Utah                    114  New Orleans             112
+Denver                  113 @LA Clippers             104
+Boston                  124  Chicago                  97
+Brooklyn                115  Toronto                 103
+Cleveland               128  Atlanta                 105
+Milwaukee               131 @Miami                   124
+New York                115  Charlotte                91
+Minnesota               106  Oklahoma City           103
+Dallas                  121  Houston                 115
+Sacramento              124  Golden State            123
+LA Lakers               133 @Detroit                 107
+Orlando                 139  Washington              120
+Toronto                 112  Phoenix                 105
+Memphis                 105  Utah                     91
+New Orleans             124  Philadelphia            114
+Denver                  134  Houston                 124
+LA Clippers             131 @Sacramento              117
+Portland                103 @Cleveland                95
+Charlotte               129 @Brooklyn                128
+Miami                   142  Indiana                 132
+New York                118  Detroit                 112
+Chicago                 120  Milwaukee               113
+Minnesota               101  Utah                     90
+Oklahoma City           133  LA Lakers               110
+Atlanta                 137 @San Antonio             135
+Golden State            120  LA Clippers             114
+Orlando                 130  Washington              125
+Boston                  125  Philadelphia            119
+Memphis                 108 @Dallas                   94
+New York                119 @Toronto                 106
+New Orleans             121  San Antonio             106
+Denver                  119 @Phoenix                 111
+LA Clippers             113  Golden State            112
+Minnesota               123 @Charlotte               117
+Brooklyn                129  Orlando                 101
+Cleveland               110 @Detroit                 101
+Chicago                 124  New Orleans             118
+Indiana                 144 @Miami                   129
+Milwaukee               132  Atlanta                 121
+Oklahoma City           126 @Dallas                  120
+Phoenix                 116  Memphis                 109
+Utah                    118  Portland                113
+Sacramento              123  Denver                  117
+LA Lakers               107  Houston                  97
+Indiana                 122  Boston                  112
+New Orleans             127 @Sacramento              117
+Milwaukee               146  New York                122
+LA Lakers               106  Phoenix                 103
+Cleveland               121  Orlando                 111
+Memphis                 116 @Detroit                 102
+Philadelphia            131 @Washington              126
+Brooklyn                114 @Atlanta                 113
+Minnesota               102  San Antonio              94
+Miami                   112 @Toronto                 103
+Chicago                 111  Charlotte               100
+Houston                 110  Oklahoma City           101
+Dallas                  147  Utah                     97
+Golden State            110  Portland                106
+LA Clippers             111  Denver                  102
+Indiana                 128 @Milwaukee               119
+LA Lakers               133  New Orleans              89
+Orlando                 123  Detroit                  91
+Philadelphia            125  Atlanta                 114
+Charlotte               119  Toronto                 116
+Brooklyn                124  Washington               97
+Cleveland               111 @Miami                    99
+Oklahoma City           138  Golden State            136
+Minnesota               127 @Memphis                 103
+Chicago                 121 @San Antonio             112
+Houston                 114 @Denver                  106
+Dallas                  125 @Portland                112
+LA Clippers             117 @Utah                    103
+Boston                  133  New York                123
+Sacramento              114 @Phoenix                 106
+LA Lakers               123  Indiana                 109
+Miami                   116 @Charlotte               114
+Indiana                 131 @Detroit                 123
+Orlando                 104  Cleveland                94
+Philadelphia            146  Washington              101
+Denver                  129 @Atlanta                 122
+New York                136  Toronto                 130
+Houston                  93  San Antonio              82
+Dallas                  120 @Memphis                 113
+Milwaukee               133  Chicago                 129
+New Orleans             121  Minnesota               107
+Oklahoma City           134  Utah                    120
+Sacramento              131  Brooklyn                118
+LA Clippers             132  Portland                127
+Boston                  120  Cleveland               113
+Dallas                  127  LA Lakers               125
+Denver                  114 @Chicago                 106
+Phoenix                 119  Golden State            116
+LA Clippers             119  Sacramento               99
+Philadelphia            129 @Detroit                 111
+New Orleans             142 @Washington              122
+Miami                   115  Charlotte               104
+Toronto                 135  Atlanta                 128
+Houston                 117  Memphis                 104
+Milwaukee               140  Indiana                 126
+LA Lakers               122 @San Antonio             119
+Brooklyn                116 @Phoenix                 112
+Utah                    117  New York                113
+Boston                  116  Cleveland               107
+Chicago                 124 @Miami                   116
+Minnesota               119 @Dallas                  101
+Denver                  124  Brooklyn                101
+Utah                    122 @Portland                114
+Sacramento              128  Oklahoma City           123
+LA Clippers             121  Golden State            113
+New Orleans             112 @Charlotte               107
+Philadelphia            124  Detroit                  92
+Washington              137  Indiana                 123
+Boston                  128  Orlando                 111
+San Antonio             129  LA Lakers               115
+Atlanta                 125 @Toronto                 104
+Houston                 103 @Memphis                  96
+New York                139 @Phoenix                 122
+Milwaukee               146  Detroit                 114
+Philadelphia            135 @Charlotte                82
+Cleveland               127  Atlanta                 119
+Miami                   118  Chicago                 116
+Minnesota               127  Indiana                 109
+Golden State            124  Brooklyn                120
+Oklahoma City           118 @Denver                  117
+Dallas                  131 @Portland                120
+Sacramento              125  Utah                    104
+LA Clippers             144  New York                122
+Boston                  114  Orlando                  97
+New Orleans             146 @San Antonio             110
+Milwaukee               128  Houston                 119
+Phoenix                 112  Washington              108
+Golden State            118 @Portland                114
+Cleveland               135  Houston                 130
+LA Clippers             151 @Indiana                 127
+Chicago                 108 @Philadelphia            104
+Atlanta                 130  Detroit                 124
+Minnesota               112 @Miami                   108
+Toronto                 114  Charlotte                99
+Oklahoma City           116  Memphis                  97
+Denver                  130  Dallas                  104
+Utah                    125  Brooklyn                108
+Sacramento              143  Washington              131
+New York                114 @LA Lakers               109
+Memphis                 115 @New Orleans             113
+Milwaukee               132  San Antonio             119
+Golden State            132  Boston                  126
+Portland                109  Phoenix                 104
+Cleveland               124  Utah                    116
+Indiana                 144  Charlotte               113
+Miami                   115 @Orlando                 106
+Philadelphia            127  Minnesota               113
+New York                121 @Brooklyn                102
+Denver                  113 @Toronto                 104
+Chicago                 124  LA Lakers               108
+Atlanta                 134 @Houston                 127
+LA Clippers             120 @Dallas                  111
+Boston                  144 @Sacramento              119
+Utah                    119 @Detroit                 111
+New Orleans             123 @Cleveland               104
+Chicago                 114  San Antonio              95
+Memphis                 116  Indiana                 103
+Milwaukee               118  Orlando                 114
+Oklahoma City           134  LA Clippers             115
+Minnesota               118  LA Lakers               111
+Washington              118 @Portland                117
+Philadelphia            121  Toronto                 111
+Denver                  122 @Brooklyn                117
+Houston                 122  Dallas                   96
+Miami                   122  Atlanta                 113
+Golden State            129  Washington              118
+Sacramento              120  Phoenix                 105
+Milwaukee               130 @New York                111
+Boston                  145 @LA Clippers             108
+Denver                  102 @Charlotte                95
+Orlando                 117 @Indiana                 110
+Houston                 106 @New Orleans             104
+Memphis                 125 @Atlanta                 119
+Brooklyn                126  Detroit                 115
+Utah                    126 @Toronto                 119
+Cleveland               109 @Chicago                  95
+LA Lakers               129 @Oklahoma City           120
+Dallas                  144  San Antonio             119
+Golden State            126  Portland                106
+Minnesota               110 @Sacramento               98
+New York                129  Milwaukee               122
+Denver                  120  Golden State            114
+Boston                  126 @LA Lakers               115
+Miami                   119  Philadelphia            113
+Dallas                  128 @Phoenix                 114
+Brooklyn                118 @Detroit                 112
+Orlando                 127 @Washington              119
+Chicago                 118  Atlanta                 113
+Indiana                 123 @Houston                 117
+Memphis                 116 @New Orleans             115
+Oklahoma City           129  Minnesota               106
+Utah                    130 @San Antonio             118
+Portland                130  Sacramento              113
+LA Clippers             113  Charlotte               104
+Philadelphia            112 @Orlando                  92
+Toronto                 132 @Washington              102
+Milwaukee               144 @Brooklyn                122
+Phoenix                 129 @Houston                 113
+Oklahoma City           129  New York                120
+Cleveland               113 @Dallas                  110
+Boston                  128  Detroit                 122
+Indiana                 120 @Chicago                 104
+Minnesota               118  Dallas                  110
+New Orleans             112  Utah                    105
+Denver                  142  Memphis                 105
+Miami                   114 @Golden State            102
+San Antonio             118 @Portland                105
+LA Lakers               133  Charlotte               112
+Orlando                 117  New York                108
+Washington              110  Brooklyn                104
+Sacramento              117 @Atlanta                 110
+Boston                  120  Toronto                 118
+Milwaukee               119 @Cleveland               111
+Philadelphia            131 @Houston                 127
+Oklahoma City           119 @Denver                   93
+Phoenix                 133  Charlotte               119
+Portland                134  San Antonio             128
+LA Clippers             117  Memphis                 106
+Utah                    117  Miami                   109
+Detroit                 129  Toronto                 127
+Indiana                 140  New York                126
+Chicago                 105  Philadelphia             92
+Minnesota               108  LA Lakers               106
+Dallas                  132 @Golden State            122
+Atlanta                 130 @Washington              126
+New Orleans             129  LA Lakers               109
+Oklahoma City           124  Brooklyn                108
+Boston                  134 @San Antonio             101
+Sacramento              123 @Memphis                  92
+Phoenix                 112  Orlando                 107
+New York                112  Minnesota               106
+Toronto                 124  Cleveland               121
+Houston                 136  Detroit                 113
+Indiana                 122 @Milwaukee               113
+Denver                  111  Charlotte                93
+Phoenix                 109  Portland                 88
+Utah                    127  Dallas                   90
+LA Clippers             121  Miami                   104
+Philadelphia            110  Chicago                  97
+Memphis                 106  San Antonio              98
+New Orleans             112  Brooklyn                 85
+Oklahoma City           127  Boston                  123
+Golden State            121  Orlando                 115
+Charlotte               111 @Sacramento              104
+Cleveland               140  Washington              101
+Indiana                 142  Milwaukee               130
+Atlanta                 141  Oklahoma City           138
+New York                116  Chicago                 100
+Houston                 112  Brooklyn                101
+Toronto                 116 @Memphis                 111
+New Orleans             117 @Minnesota               106
+Dallas                  126  Portland                 97
+LA Clippers             131 @Phoenix                 122
+Utah                    154  Detroit                 148
+Miami                   110 @LA Lakers                96
+Sacramento              138  Orlando                 135
