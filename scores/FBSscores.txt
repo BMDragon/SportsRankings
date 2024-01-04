@@ -1,0 +1,909 @@
+2023-08-26  Notre Dame               42  Navy                      3           Dublin IE 
+2023-08-26 @Jacksonville St          17  UTEP                     14            
+2023-08-26 @Louisiana Tech           22  Florida Intl             17            
+2023-08-26 @Vanderbilt               35  Hawaii                   28            
+2023-08-26  Massachusetts            41 @New Mexico St            30            
+2023-08-26 @San Diego St             20  Ohio                     13            
+2023-08-26 @USC                      56  San Jose St              28            
+2023-08-31 @Georgia St               42  FCS1                     35            
+2023-08-31 @UCF                      56  Kent                      6            
+2023-08-31 @Wake Forest              37  FCS1                     17            
+2023-08-31 @W Michigan               35  FCS1                     17            
+2023-08-31 @Minnesota                13  Nebraska                 10            
+2023-08-31 @Tulsa                    42  FCS1                      7            
+2023-08-31 @UAB                      35  FCS1                      6            
+2023-08-31 @Utah                     24  Florida                  11            
+2023-08-31 @Arizona St               24  FCS1                     21            
+2023-08-31  NC State                 24 @Connecticut              14            
+2023-08-31 @Missouri                 35  FCS1                     10            
+2023-09-01 @Kansas                   48  FCS1                     17            
+2023-09-01 @E Michigan               33  FCS10                    23            
+2023-09-01  Louisville               39 @Georgia Tech             34          Chick-fil-a Kickoff Atlanta GA 
+2023-09-01 @Miami FL                 38  Miami OH                  3            
+2023-09-01 @Michigan St              31  C Michigan                7            
+2023-09-01  Stanford                 37 @Hawaii                   24            
+2023-09-02 @Appalachian St           45  FCS2                     24            
+2023-09-02  N Illinois               27 @Boston College           24 O1         
+2023-09-02 @Charlotte                24  FCS3                      3            
+2023-09-02 @Cincinnati               66  FCS2                     13            
+2023-09-02 @Florida Intl             14  FCS4                     12            
+2023-09-02 @FL Atlantic              42  FCS3                     20            
+2023-09-02 @Georgia                  48  FCS4                      7            
+2023-09-02 @Ga Southern              34  FCS3                      0            
+2023-09-02  Ohio St                  23 @Indiana                   3            
+2023-09-02 @James Madison            38  FCS3                      3            
+2023-09-02 @Kentucky                 44  Ball St                  14            
+2023-09-02 @Liberty                  34  Bowling Green            24            
+2023-09-02 @Marshall                 21  FCS4                     17            
+2023-09-02 @Maryland                 38  FCS3                      6            
+2023-09-02 @Michigan                 30  East Carolina             3            
+2023-09-02 @Notre Dame               56  FCS2                      3            
+2023-09-02 @Ohio                     27  FCS2                     10            
+2023-09-02 @Penn St                  38  West Virginia            15            
+2023-09-02 @Pittsburgh               45  FCS2                      7            
+2023-09-02  Fresno St                39 @Purdue                   35            
+2023-09-02  North Carolina           31  South Carolina           17          Duke's Mayo Classic Charlotte NC 
+2023-09-02 @Syracuse                 65  FCS3                      0            
+2023-09-02 @Temple                   24  Akron                    21            
+2023-09-02 @Virginia Tech            36  Old Dominion             17            
+2023-09-02 @Alabama                  56  MTSU                      7            
+2023-09-02 @Arkansas                 56  FCS3                     13           Little Rock AR 
+2023-09-02 @Auburn                   59  Massachusetts            14            
+2023-09-02  Texas St                 42 @Baylor                   31            
+2023-09-02 @Houston                  17  UT San Antonio           14            
+2023-09-02 @Illinois                 30  Toledo                   28            
+2023-09-02 @Iowa                     24  Utah St                  14            
+2023-09-02 @Iowa St                  30  FCS2                      9            
+2023-09-02 @Jacksonville St          49  FCS1                      3            
+2023-09-02 @Kansas St                45  FCS4                      0            
+2023-09-02 @Louisiana                38  FCS5                     13            
+2023-09-02 @ULM                      17  Army                     13            
+2023-09-02 @Memphis                  56  FCS4                     14            
+2023-09-02 @Mississippi St           48  FCS3                      7            
+2023-09-02  California               58 @North Texas              21            
+2023-09-02 @Oklahoma                 73  Arkansas St               0            
+2023-09-02 @Oklahoma St              27  FCS4                     13            
+2023-09-02 @Mississippi              73  FCS2                      7            
+2023-09-02 @SMU                      38  Louisiana Tech           14            
+2023-09-02 @Southern Miss            40  FCS4                     14            
+2023-09-02  Colorado                 45 @TCU                      42            
+2023-09-02 @Tennessee                49  Virginia                 13           Nashville TN 
+2023-09-02 @Texas                    37  Rice                     10            
+2023-09-02 @Texas A&M                52  New Mexico               10            
+2023-09-02 @Troy                     48  FCS4                     30            
+2023-09-02 @Tulane                   37  South Alabama            17            
+2023-09-02 @Vanderbilt               47  FCS4                     13            
+2023-09-02 @WKU                      41  South Florida            24            
+2023-09-02 @Wisconsin                38  Buffalo                  17            
+2023-09-02 @Air Force                42  FCS1                      7            
+2023-09-02 @BYU                      14  Sam Houston St            0            
+2023-09-02  Washington St            50 @Colorado St              24            
+2023-09-02 @New Mexico St            58  FCS3                     21            
+2023-09-02 @UTEP                     28  FCS5                     14            
+2023-09-02 @Wyoming                  35  Texas Tech               33 O2         
+2023-09-02 @Arizona                  38  FCS1                      3            
+2023-09-02 @Oregon                   81  FCS2                      7            
+2023-09-02 @San Diego St             36  FCS5                     28            
+2023-09-02 @UCLA                     27  Coastal Car              13            
+2023-09-02 @UNLV                     44  FCS3                     14            
+2023-09-02 @USC                      66  Nevada                   14            
+2023-09-02 @Washington               56  Boise St                 19            
+2023-09-03 @Rutgers                  24  Northwestern              7            
+2023-09-03 @Florida St               45  LSU                      24          Camping World Kickoff Orlando FL 
+2023-09-03  Oregon St                42 @San Jose St              17            
+2023-09-04 @Duke                     28  Clemson                   7            
+2023-09-07 @Louisville               56  FCS5                      0            
+2023-09-08 @Indiana                  41  FCS5                      7            
+2023-09-08 @Kansas                   34  Illinois                 23            
+2023-09-09 @Akron                    24  FCS7                     21            
+2023-09-09 @Army                     57  FCS6                      0            
+2023-09-09 @Boston College           31  FCS6                     28            
+2023-09-09 @Bowling Green            38  FCS6                     15            
+2023-09-09  FCS6                     40 @Buffalo                  37            
+2023-09-09 @C Michigan               45  FCS6                     42            
+2023-09-09 @Clemson                  66  FCS6                     17            
+2023-09-09 @Coastal Car              30  Jacksonville St          16            
+2023-09-09 @Duke                     42  FCS5                      7            
+2023-09-09  Marshall                 31 @East Carolina            13            
+2023-09-09 @Florida Intl             46  North Texas              39            
+2023-09-09 @Florida                  49  FCS6                      7            
+2023-09-09  Ohio                     17 @FL Atlantic              10            
+2023-09-09 @Florida St               66  Southern Miss            13            
+2023-09-09 @Georgia                  45  Ball St                   3            
+2023-09-09 @Ga Southern              49  UAB                      35            
+2023-09-09 @Georgia St               35  Connecticut              14            
+2023-09-09 @Georgia Tech             48  FCS3                     13            
+2023-09-09 @Kentucky                 28  FCS2                     17            
+2023-09-09 @Liberty                  33  New Mexico St            17            
+2023-09-09 @Maryland                 38  Charlotte                20            
+2023-09-09  Miami OH                 41 @Massachusetts            28            
+2023-09-09 @Miami FL                 48  Texas A&M                33            
+2023-09-09 @Michigan                 35  UNLV                      7            
+2023-09-09 @Michigan St              45  FCS7                     14            
+2023-09-09 @Navy                     24  FCS7                      0            
+2023-09-09 @North Carolina           40  Appalachian St           34 O2         
+2023-09-09  Notre Dame               45 @NC State                 24            
+2023-09-09 @Ohio St                  35  FCS5                      7            
+2023-09-09 @Old Dominion             38  Louisiana                31            
+2023-09-09 @Penn St                  63  FCS5                      7            
+2023-09-09  Cincinnati               27 @Pittsburgh               21            
+2023-09-09 @Rutgers                  36  Temple                    7            
+2023-09-09 @South Carolina           47  FCS7                     21            
+2023-09-09 @South Florida            38  FCS7                     24            
+2023-09-09 @Syracuse                 48  W Michigan                7            
+2023-09-09 @Tennessee                30  FCS7                     13            
+2023-09-09 @Toledo                   71  FCS6                      3            
+2023-09-09  James Madison            36 @Virginia                 35            
+2023-09-09  Purdue                   24 @Virginia Tech            17            
+2023-09-09 @Wake Forest              36  Vanderbilt               20            
+2023-09-09 @West Virginia            56  FCS7                     17            
+2023-09-09  Texas                    34 @Alabama                  24            
+2023-09-09 @Arkansas                 28  Kent                      6            
+2023-09-09  Memphis                  37 @Arkansas St               3            
+2023-09-09  Utah                     20 @Baylor                   13            
+2023-09-09  Iowa                     20 @Iowa St                  13            
+2023-09-09 @Kansas St                42  Troy                     13            
+2023-09-09 @LSU                      72  FCS4                     10            
+2023-09-09 @Louisiana Tech           51  FCS5                     21            
+2023-09-09 @ULM                      24  FCS8                     14            
+2023-09-09 @Minnesota                25  E Michigan                6            
+2023-09-09 @Mississippi St           31  Arizona                  24 O1         
+2023-09-09 @Missouri                 23  MTSU                     19            
+2023-09-09  FCS7                     14 @N Illinois               11            
+2023-09-09 @Northwestern             38  UTEP                      7            
+2023-09-09 @Oklahoma                 28  SMU                      11            
+2023-09-09 @Rice                     43  Houston                  41 O2         
+2023-09-09  Air Force                13 @Sam Houston St            3           Houston TX 
+2023-09-09 @South Alabama            35  FCS3                     17            
+2023-09-09 @TCU                      41  FCS8                      6            
+2023-09-09  Oregon                   38 @Texas Tech               30            
+2023-09-09  Mississippi              37 @Tulane                   20            
+2023-09-09 @UT San Antonio           20  Texas St                 13            
+2023-09-09 @WKU                      52  FCS7                     22            
+2023-09-09 @BYU                      41  FCS6                     16            
+2023-09-09  UCF                      18 @Boise St                 16            
+2023-09-09 @Colorado                 36  Nebraska                 14            
+2023-09-09 @New Mexico               56  FCS8                     10            
+2023-09-09 @Utah St                  78  FCS5                     28            
+2023-09-09 @Wyoming                  31  FCS2                     17            
+2023-09-09  Oklahoma St              27 @Arizona St               15            
+2023-09-09  Auburn                   14 @California               10            
+2023-09-09 @Fresno St                34  FCS8                     31 O2         
+2023-09-09  FCS8                     33 @Nevada                    6            
+2023-09-09 @Oregon St                55  FCS8                      7            
+2023-09-09  UCLA                     35 @San Diego St             10            
+2023-09-09 @San Jose St              59  FCS7                      3            
+2023-09-09 @USC                      56  Stanford                 10            
+2023-09-09 @Washington               43  Tulsa                    10            
+2023-09-09 @Washington St            31  Wisconsin                22            
+2023-09-09 @Hawaii                   31  FCS4                     20            
+2023-09-14 @Miami FL                 48  FCS4                      7            
+2023-09-14 @Memphis                  28  Navy                     24            
+2023-09-15 @Maryland                 42  Virginia                 14            
+2023-09-15  Army                     37 @UT San Antonio           29            
+2023-09-15 @Air Force                39  Utah St                  21            
+2023-09-16 @Appalachian St           43  East Carolina            28            
+2023-09-16 @Ball St                  45  FCS5                      7            
+2023-09-16  Florida St               31 @Boston College           29            
+2023-09-16  Liberty                  55 @Buffalo                  27            
+2023-09-16  Georgia St               41 @Charlotte                25            
+2023-09-16  Miami OH                 31 @Cincinnati               24 O1         
+2023-09-16 @Clemson                  48  FL Atlantic              14            
+2023-09-16 @Coastal Car              66  FCS7                      7            
+2023-09-16  Florida Intl             24 @Connecticut              17            
+2023-09-16 @Duke                     38  Northwestern             14            
+2023-09-16 @E Michigan               19  Massachusetts            17            
+2023-09-16 @Florida                  29  Tennessee                16            
+2023-09-16 @Georgia                  24  South Carolina           14            
+2023-09-16  Louisville               21  Indiana                  14           Indianapolis IN 
+2023-09-16 @Kent                     38  FCS8                     10            
+2023-09-16 @Kentucky                 35  Akron                     3            
+2023-09-16 @Michigan                 31  Bowling Green             6            
+2023-09-16  Washington               41 @Michigan St               7            
+2023-09-16 @North Carolina           31  Minnesota                13            
+2023-09-16 @NC State                 45  FCS8                      7            
+2023-09-16 @Notre Dame               41  C Michigan               17            
+2023-09-16 @Ohio                     10  Iowa St                   7            
+2023-09-16 @Ohio St                  63  WKU                      10            
+2023-09-16  Wake Forest              27 @Old Dominion             24            
+2023-09-16  Syracuse                 35 @Purdue                   20            
+2023-09-16 @Rutgers                  35  Virginia Tech            16            
+2023-09-16  Alabama                  17 @South Florida             3            
+2023-09-16 @Temple                   41  FCS8                      9            
+2023-09-16 @Toledo                   21  San Jose St              17            
+2023-09-16 @UCF                      48  FCS9                     14            
+2023-09-16 @West Virginia            17  Pittsburgh                6            
+2023-09-16  BYU                      38 @Arkansas                 31            
+2023-09-16 @Arkansas St              31  FCS9                      7            
+2023-09-16 @Auburn                   45  FCS9                     13            
+2023-09-16 @Baylor                   30  FCS2                      7            
+2023-09-16  TCU                      36 @Houston                  13            
+2023-09-16  Penn St                  30 @Illinois                 13            
+2023-09-16 @Iowa                     41  W Michigan               10            
+2023-09-16  North Texas              40 @Louisiana Tech           37            
+2023-09-16 @MTSU                     35  FCS5                     14            
+2023-09-16  LSU                      41 @Mississippi St           14            
+2023-09-16 @Missouri                 30  Kansas St                27            
+2023-09-16 @Nebraska                 35  N Illinois               11            
+2023-09-16  South Alabama            33 @Oklahoma St               7            
+2023-09-16 @Mississippi              48  Georgia Tech             23            
+2023-09-16 @Rice                     59  FCS6                      7            
+2023-09-16 @SMU                      69  FCS9                      0            
+2023-09-16  Tulane                   21 @Southern Miss             3            
+2023-09-16 @Texas                    31  Wyoming                  10            
+2023-09-16 @Texas A&M                47  ULM                       3            
+2023-09-16 @Texas St                 77  FCS9                     34            
+2023-09-16 @Texas Tech               41  FCS9                      3            
+2023-09-16  James Madison            16 @Troy                     14            
+2023-09-16  Oklahoma                 66 @Tulsa                    17            
+2023-09-16  Louisiana                41 @UAB                      21            
+2023-09-16 @Wisconsin                35  Ga Southern              14            
+2023-09-16 @Boise St                 42  FCS8                     18            
+2023-09-16 @Colorado                 43  Colorado St              35 O2         
+2023-09-16  New Mexico St            27 @New Mexico               17            
+2023-09-16 @Utah                     31  FCS9                      7            
+2023-09-16 @Arizona                  31  UTEP                     10            
+2023-09-16  Fresno St                29 @Arizona St                0            
+2023-09-16 @California               31  FCS8                     17            
+2023-09-16  Kansas                   31 @Nevada                   24            
+2023-09-16 @Oregon                   55  Hawaii                   10            
+2023-09-16 @Oregon St                26  San Diego St              9            
+2023-09-16  FCS9                     30 @Stanford                 23            
+2023-09-16 @UCLA                     59  FCS9                      7            
+2023-09-16 @UNLV                     40  Vanderbilt               37            
+2023-09-16 @Washington St            64  FCS9                     21            
+2023-09-21  Georgia St               30 @Coastal Car              17            
+2023-09-22  Wisconsin                38 @Purdue                   17            
+2023-09-22  NC State                 24 @Virginia                 21            
+2023-09-22  Boise St                 34 @San Diego St             31            
+2023-09-22  Air Force                45 @San Jose St              20            
+2023-09-23  Ga Southern              40 @Ball St                   3            
+2023-09-23  Ohio                     38 @Bowling Green             7            
+2023-09-23  Oklahoma                 20 @Cincinnati                6            
+2023-09-23  Florida St               31 @Clemson                  24 O1         
+2023-09-23  Duke                     41 @Connecticut               7            
+2023-09-23 @East Carolina            44  FCS2                      0            
+2023-09-23  Liberty                  38 @Florida Intl              6            
+2023-09-23 @Florida                  22  Charlotte                 7            
+2023-09-23 @Georgia                  49  UAB                      21            
+2023-09-23 @Indiana                  29  Akron                    27 O4         
+2023-09-23 @Louisville               56  Boston College           28            
+2023-09-23 @Marshall                 24  Virginia Tech            17            
+2023-09-23  New Mexico               34 @Massachusetts            31 O1         
+2023-09-23 @Miami OH                 62  FCS6                     20            
+2023-09-23 @Michigan                 31  Rutgers                   7            
+2023-09-23  Maryland                 31 @Michigan St               9            
+2023-09-23  Ohio St                  17 @Notre Dame               14            
+2023-09-23 @Old Dominion             10  FCS9                      9            
+2023-09-23 @Penn St                  31  Iowa                      0            
+2023-09-23  North Carolina           41 @Pittsburgh               24            
+2023-09-23 @South Carolina           37  Mississippi St           30            
+2023-09-23 @South Florida            42  Rice                     29            
+2023-09-23 @Syracuse                 29  Army                     16            
+2023-09-23  Miami FL                 41 @Temple                    7            
+2023-09-23 @Tennessee                45  UT San Antonio           14            
+2023-09-23 @Toledo                   49  W Michigan               31            
+2023-09-23  Georgia Tech             30 @Wake Forest              16            
+2023-09-23 @West Virginia            20  Texas Tech               13            
+2023-09-23 @Alabama                  24  Mississippi              10            
+2023-09-23 @Arkansas St              44  Southern Miss            37            
+2023-09-23  Texas                    38 @Baylor                    6            
+2023-09-23 @Houston                  38  Sam Houston St            7            
+2023-09-23 @Illinois                 23  FL Atlantic              17            
+2023-09-23 @Iowa St                  34  Oklahoma St              27            
+2023-09-23 @Jacksonville St          21  E Michigan                0            
+2023-09-23 @Kansas                   38  BYU                      27            
+2023-09-23 @Kansas St                44  UCF                      31            
+2023-09-23 @LSU                      34  Arkansas                 31            
+2023-09-23 @Louisiana                45  Buffalo                  38            
+2023-09-23  Missouri                 34  Memphis                  27           St Louis MO 
+2023-09-23  Colorado St              31 @MTSU                     23            
+2023-09-23 @Nebraska                 28  Louisiana Tech           14            
+2023-09-23  Tulsa                    22 @N Illinois               14            
+2023-09-23 @Northwestern             37  Minnesota                34 O1         
+2023-09-23  C Michigan               34 @South Alabama            30            
+2023-09-23 @TCU                      34  SMU                      17            
+2023-09-23 @Texas A&M                27  Auburn                   10            
+2023-09-23 @Texas St                 35  Nevada                   24            
+2023-09-23 @Troy                     27  WKU                      24            
+2023-09-23 @Tulane                   36  FCS8                      7            
+2023-09-23  Kentucky                 45 @Vanderbilt               28            
+2023-09-23  UNLV                     45 @UTEP                     28            
+2023-09-23 @Utah                     14  UCLA                      7            
+2023-09-23  James Madison            45 @Utah St                  38            
+2023-09-23 @Wyoming                  22  Appalachian St           19            
+2023-09-23  USC                      42 @Arizona St               28            
+2023-09-23 @Fresno St                53  Kent                     10            
+2023-09-23 @Oregon                   42  Colorado                  6            
+2023-09-23  Arizona                  21 @Stanford                 20            
+2023-09-23 @Washington               59  California               32            
+2023-09-23 @Washington St            38  Oregon St                35            
+2023-09-23 @Hawaii                   20  New Mexico St            17            
+2023-09-28  Jacksonville St          35 @Sam Houston St           28 O1         
+2023-09-28 @Tulsa                    48  Temple                   26            
+2023-09-28 @WKU                      31  MTSU                     10            
+2023-09-29  Louisville               13 @NC State                 10            
+2023-09-29 @BYU                      35  Cincinnati               27            
+2023-09-29  Louisiana Tech           24 @UTEP                     10            
+2023-09-29 @Oregon St                21  Utah                      7            
+2023-09-30  Buffalo                  13 @Akron                    10 O1         
+2023-09-30 @Boston College           27  Virginia                 24            
+2023-09-30 @C Michigan               26  E Michigan               23            
+2023-09-30  Utah St                  34 @Connecticut              33            
+2023-09-30  Notre Dame               21 @Duke                     14            
+2023-09-30 @Ga Southern              38  Coastal Car              28            
+2023-09-30  Troy                     28 @Georgia St                7            
+2023-09-30  Bowling Green            38 @Georgia Tech             27            
+2023-09-30 @James Madison            31  South Alabama            23            
+2023-09-30  Miami OH                 23 @Kent                      3            
+2023-09-30 @Kentucky                 33  Florida                  14            
+2023-09-30 @Marshall                 41  Old Dominion             35            
+2023-09-30 @Maryland                 44  Indiana                  17            
+2023-09-30  Arkansas St              52 @Massachusetts            28            
+2023-09-30  South Florida            44 @Navy                     30            
+2023-09-30 @Purdue                   44  Illinois                 19            
+2023-09-30 @Rutgers                  52  FCS7                      3            
+2023-09-30  Clemson                  31 @Syracuse                 14            
+2023-09-30 @Tennessee                41  South Carolina           20            
+2023-09-30 @Toledo                   35  N Illinois               33            
+2023-09-30  Baylor                   36 @UCF                      35            
+2023-09-30 @Virginia Tech            38  Pittsburgh               21            
+2023-09-30 @W Michigan               42  Ball St                  24            
+2023-09-30  Texas A&M                34 @Arkansas                 22           Arlington TX 
+2023-09-30  Georgia                  27 @Auburn                   20            
+2023-09-30 @Iowa                     26  Michigan St              16            
+2023-09-30  Appalachian St           41 @ULM                      40            
+2023-09-30 @Memphis                  35  Boise St                 32            
+2023-09-30 @Minnesota                35  Louisiana                24            
+2023-09-30  Alabama                  40 @Mississippi St           17            
+2023-09-30  Michigan                 45 @Nebraska                  7            
+2023-09-30 @North Texas              45  FCS10                    31            
+2023-09-30  Penn St                  41 @Northwestern             13            
+2023-09-30 @Oklahoma                 50  Iowa St                  20            
+2023-09-30 @Mississippi              55  LSU                      49            
+2023-09-30 @Rice                     24  East Carolina            17            
+2023-09-30 @SMU                      34  Charlotte                16            
+2023-09-30  Texas St                 50 @Southern Miss            36            
+2023-09-30  West Virginia            24 @TCU                      21            
+2023-09-30 @Texas                    40  Kansas                   14            
+2023-09-30 @Texas Tech               49  Houston                  28            
+2023-09-30 @Tulane                   35  UAB                      23            
+2023-09-30  Missouri                 38 @Vanderbilt               21            
+2023-09-30 @Air Force                49  San Diego St             10            
+2023-09-30  USC                      48 @Colorado                 41            
+2023-09-30 @Colorado St              41  FCS10                    20            
+2023-09-30 @Wyoming                  35  New Mexico               26            
+2023-09-30  Washington               31 @Arizona                  24            
+2023-09-30 @California               24  Arizona St               21            
+2023-09-30 @Fresno St                27  Nevada                    9            
+2023-09-30  Oregon                   42 @Stanford                  6            
+2023-09-30 @UNLV                     44  Hawaii                   20            
+2023-10-04  Jacksonville St          45 @MTSU                     30            
+2023-10-04 @New Mexico St            34  Florida Intl             17            
+2023-10-05 @Liberty                  21  Sam Houston St           16            
+2023-10-05  WKU                      35 @Louisiana Tech           28            
+2023-10-06  Nebraska                 20 @Illinois                  7            
+2023-10-06 @Oklahoma St              29  Kansas St                21            
+2023-10-07  N Illinois               55 @Akron                    14            
+2023-10-07  Boston College           27 @Army                     24            
+2023-10-07 @Buffalo                  37  C Michigan               13            
+2023-10-07 @Clemson                  17  Wake Forest              12            
+2023-10-07 @E Michigan               24  Ball St                  10            
+2023-10-07 @Florida                  38  Vanderbilt               14            
+2023-10-07 @FL Atlantic              20  Tulsa                    17            
+2023-10-07 @Florida St               39  Virginia Tech            17            
+2023-10-07 @Georgia                  51  Kentucky                 13            
+2023-10-07 @Louisville               33  Notre Dame               20            
+2023-10-07  Toledo                   41 @Massachusetts            24            
+2023-10-07  Georgia Tech             23 @Miami FL                 20            
+2023-10-07 @Miami OH                 27  Bowling Green             0            
+2023-10-07 @Navy                     27  North Texas              24            
+2023-10-07 @North Carolina           40  Syracuse                  7            
+2023-10-07 @NC State                 48  Marshall                 41            
+2023-10-07 @Ohio                     42  Kent                     17            
+2023-10-07 @Ohio St                  37  Maryland                 17            
+2023-10-07  UT San Antonio           49 @Temple                   34            
+2023-10-07 @Virginia                 27  FCS10                    13            
+2023-10-07  Texas Tech               39 @Baylor                   14            
+2023-10-07 @Iowa                     20  Purdue                   14            
+2023-10-07 @Iowa St                  27  TCU                      14            
+2023-10-07 @Kansas                   51  UCF                      22            
+2023-10-07 @Louisiana                34  Texas St                 30            
+2023-10-07  South Alabama            55 @ULM                       7            
+2023-10-07  Michigan                 52 @Minnesota                10            
+2023-10-07 @Mississippi St           41  W Michigan               28            
+2023-10-07  LSU                      49 @Missouri                 39            
+2023-10-07 @Northwestern             23  FCS10                    20            
+2023-10-07 @Mississippi              27  Arkansas                 20            
+2023-10-07  Connecticut              38 @Rice                     31            
+2023-10-07  Old Dominion             17 @Southern Miss            13            
+2023-10-07  Oklahoma                 34  Texas                    30           Dallas TX 
+2023-10-07  Alabama                  26 @Texas A&M                20            
+2023-10-07 @Troy                     37  Arkansas St               3            
+2023-10-07 @UAB                      56  South Florida            35            
+2023-10-07 @Wisconsin                24  Rutgers                  13            
+2023-10-07 @Boise St                 35  San Jose St              27            
+2023-10-07 @Utah St                  44  Colorado St              24            
+2023-10-07 @Wyoming                  24  Fresno St                19            
+2023-10-07  Colorado                 27 @Arizona St               24            
+2023-10-07  Oregon St                52 @California               40            
+2023-10-07 @UCLA                     25  Washington St            17            
+2023-10-07 @USC                      43  Arizona                  41 O3         
+2023-10-10  Coastal Car              27 @Appalachian St           24            
+2023-10-10  Liberty                  31 @Jacksonville St          13            
+2023-10-10 @MTSU                     31  Louisiana Tech           23            
+2023-10-11  UTEP                     27 @Florida Intl             14            
+2023-10-11 @New Mexico St            27  Sam Houston St           13            
+2023-10-12  SMU                      31 @East Carolina            10            
+2023-10-12 @Houston                  41  West Virginia            39            
+2023-10-13  Tulane                   31 @Memphis                  21            
+2023-10-13  Stanford                 46 @Colorado                 43 O2         
+2023-10-13  Fresno St                37 @Utah St                  32            
+2023-10-14  Troy                     19 @Army                      0            
+2023-10-14  Toledo                   13 @Ball St                   6            
+2023-10-14  Bowling Green            24 @Buffalo                  14            
+2023-10-14 @C Michigan               17  Akron                    10            
+2023-10-14  Navy                     14 @Charlotte                 0            
+2023-10-14  Iowa St                  30 @Cincinnati               10            
+2023-10-14 @Duke                     24  NC State                  3            
+2023-10-14 @E Michigan               28  Kent                     14            
+2023-10-14 @Florida St               41  Syracuse                  3            
+2023-10-14 @Georgia St               41  Marshall                 24            
+2023-10-14 @James Madison            41  Ga Southern              13            
+2023-10-14  Missouri                 38 @Kentucky                 21            
+2023-10-14  Illinois                 27 @Maryland                 24            
+2023-10-14 @Michigan                 52  Indiana                   7            
+2023-10-14 @North Carolina           41  Miami FL                 31            
+2023-10-14 @Notre Dame               48  USC                      20            
+2023-10-14 @Penn St                  63  Massachusetts             0            
+2023-10-14 @Pittsburgh               38  Louisville               21            
+2023-10-14  Ohio St                  41 @Purdue                    7            
+2023-10-14 @Rutgers                  27  Michigan St              24            
+2023-10-14  Florida                  41 @South Carolina           39            
+2023-10-14  FL Atlantic              56 @South Florida            14            
+2023-10-14 @Tennessee                20  Texas A&M                13            
+2023-10-14 @Virginia Tech            30  Wake Forest              13            
+2023-10-14  Miami OH                 34 @W Michigan               21            
+2023-10-14 @Alabama                  24  Arkansas                 21            
+2023-10-14 @LSU                      48  Auburn                   18            
+2023-10-14 @North Texas              45  Temple                   14            
+2023-10-14 @N Illinois               23  Ohio                     13            
+2023-10-14 @Oklahoma St              39  Kansas                   32            
+2023-10-14 @TCU                      44  BYU                      11            
+2023-10-14 @Texas St                 21  ULM                      20            
+2023-10-14  Kansas St                38 @Texas Tech               21            
+2023-10-14 @UT San Antonio           41  UAB                      20            
+2023-10-14  Georgia                  37 @Vanderbilt               20            
+2023-10-14  Iowa                     15 @Wisconsin                 6            
+2023-10-14 @Air Force                34  Wyoming                  27            
+2023-10-14 @Colorado St              31  Boise St                 30            
+2023-10-14  San Jose St              52 @New Mexico               24            
+2023-10-14 @Utah                     34  California               14            
+2023-10-14  UNLV                     45 @Nevada                   27            
+2023-10-14 @Oregon St                36  UCLA                     24            
+2023-10-14 @Washington               36  Oregon                   33            
+2023-10-14  Arizona                  44 @Washington St             6            
+2023-10-14  San Diego St             41 @Hawaii                   34            
+2023-10-17 @Liberty                  42  MTSU                     35            
+2023-10-17 @Jacksonville St          20  WKU                      17            
+2023-10-17 @South Alabama            55  Southern Miss             3            
+2023-10-18  Florida Intl             33 @Sam Houston St           27 O2         
+2023-10-18  New Mexico St            28 @UTEP                      7            
+2023-10-19  James Madison            20 @Marshall                  9            
+2023-10-19  Rice                     42 @Tulsa                    10            
+2023-10-20  SMU                      55 @Temple                    0            
+2023-10-21 @Ball St                  24  C Michigan               17            
+2023-10-21 @Bowling Green            41  Akron                    14            
+2023-10-21  Baylor                   32 @Cincinnati               29            
+2023-10-21  South Florida            24 @Connecticut              21            
+2023-10-21  Charlotte                10 @East Carolina             7            
+2023-10-21  UT San Antonio           36 @FL Atlantic              10            
+2023-10-21 @Florida St               38  Duke                     20            
+2023-10-21 @Ga Southern              38  ULM                      28            
+2023-10-21  Boston College           38 @Georgia Tech             23            
+2023-10-21  Rutgers                  31 @Indiana                  14            
+2023-10-21  Buffalo                  24 @Kent                      6            
+2023-10-21 @Miami FL                 28  Clemson                  20 O2         
+2023-10-21  Toledo                   21 @Miami OH                 17            
+2023-10-21  Michigan                 49 @Michigan St               0            
+2023-10-21  Air Force                17 @Navy                      6            
+2023-10-21  Virginia                 31 @North Carolina           27            
+2023-10-21 @Ohio                     20  W Michigan               17            
+2023-10-21 @Ohio St                  20  Penn St                  12            
+2023-10-21 @Old Dominion             28  Appalachian St           21            
+2023-10-21 @Wake Forest              21  Pittsburgh               17            
+2023-10-21  Oklahoma St              48 @West Virginia            34            
+2023-10-21 @Alabama                  34  Tennessee                20            
+2023-10-21  Mississippi St            7 @Arkansas                  3            
+2023-10-21  Coastal Car              27 @Arkansas St              17            
+2023-10-21  Mississippi              28 @Auburn                   21            
+2023-10-21  Texas                    31 @Houston                  24            
+2023-10-21  Wisconsin                25 @Illinois                 21            
+2023-10-21  Minnesota                12 @Iowa                     10            
+2023-10-21 @Kansas St                41  TCU                       3            
+2023-10-21 @LSU                      62  Army                      0            
+2023-10-21  Georgia St               20 @Louisiana                17            
+2023-10-21 @Missouri                 34  South Carolina           12            
+2023-10-21 @Nebraska                 17  Northwestern              9            
+2023-10-21 @N Illinois               20  E Michigan               13            
+2023-10-21 @Oklahoma                 31  UCF                      29            
+2023-10-21 @Tulane                   35  North Texas              28            
+2023-10-21  Memphis                  45 @UAB                      21            
+2023-10-21 @BYU                      27  Texas Tech               14            
+2023-10-21 @New Mexico               42  Hawaii                   21            
+2023-10-21 @Oregon                   38  Washington St            24            
+2023-10-21  Nevada                    6 @San Diego St              0            
+2023-10-21 @San Jose St              42  Utah St                  21            
+2023-10-21  UCLA                     42 @Stanford                  7            
+2023-10-21 @UNLV                     25  Colorado St              23            
+2023-10-21  Utah                     34 @USC                      32            
+2023-10-21 @Washington               15  Arizona St                7            
+2023-10-24  New Mexico St            27 @Louisiana Tech           24            
+2023-10-24  Liberty                  42 @WKU                      29            
+2023-10-25  Jacksonville St          41 @Florida Intl             16            
+2023-10-25  UTEP                     37 @Sam Houston St           34            
+2023-10-26 @Ga Southern              44  Georgia St               27            
+2023-10-26 @Virginia Tech            38  Syracuse                 10            
+2023-10-27  FL Atlantic              38 @Charlotte                16            
+2023-10-28 @Appalachian St           48  Southern Miss            38            
+2023-10-28  Massachusetts            21 @Army                     14            
+2023-10-28 @Boston College           21  Connecticut              14            
+2023-10-28 @Coastal Car              34  Marshall                  6            
+2023-10-28  W Michigan               45 @E Michigan               21            
+2023-10-28  Georgia                  43  Florida                  20           Jacksonville FL 
+2023-10-28 @Georgia Tech             46  North Carolina           42            
+2023-10-28 @James Madison            30  Old Dominion             27            
+2023-10-28  Tennessee                33 @Kentucky                 27            
+2023-10-28 @Louisville               23  Duke                      0            
+2023-10-28 @Miami FL                 29  Virginia                 26 O1         
+2023-10-28 @NC State                 24  Clemson                  17            
+2023-10-28 @Notre Dame               58  Pittsburgh                7            
+2023-10-28  Miami OH                 30 @Ohio                     16            
+2023-10-28 @Penn St                  33  Indiana                  24            
+2023-10-28  West Virginia            41 @UCF                      28            
+2023-10-28  Florida St               41 @Wake Forest              16            
+2023-10-28 @Auburn                   27  Mississippi St           13            
+2023-10-28  Iowa St                  30 @Baylor                   18            
+2023-10-28 @Kansas                   38  Oklahoma                 33            
+2023-10-28 @Kansas St                41  Houston                   0            
+2023-10-28  Arkansas St              34 @ULM                      24            
+2023-10-28 @Minnesota                27  Michigan St              12            
+2023-10-28 @Nebraska                 31  Purdue                   14            
+2023-10-28  Memphis                  45 @North Texas              42            
+2023-10-28 @Northwestern             33  Maryland                 27            
+2023-10-28 @Oklahoma St              45  Cincinnati               13            
+2023-10-28 @Mississippi              33  Vanderbilt                7            
+2023-10-28  Tulane                   30 @Rice                     28            
+2023-10-28 @SMU                      69  Tulsa                    10            
+2023-10-28  Louisiana                33 @South Alabama            20            
+2023-10-28 @Texas                    35  BYU                       6            
+2023-10-28 @Texas A&M                30  South Carolina           17            
+2023-10-28  Troy                     31 @Texas St                 13            
+2023-10-28 @UT San Antonio           41  East Carolina            27            
+2023-10-28  Ohio St                  24 @Wisconsin                10            
+2023-10-28 @Boise St                 32  Wyoming                   7            
+2023-10-28  Air Force                30 @Colorado St              13            
+2023-10-28  Oregon                   35 @Utah                      6            
+2023-10-28 @Arizona                  27  Oregon St                24            
+2023-10-28 @Arizona St               38  Washington St            27            
+2023-10-28  USC                      50 @California               49            
+2023-10-28 @Fresno St                31  UNLV                     24            
+2023-10-28 @Nevada                   34  New Mexico               24            
+2023-10-28  Washington               42 @Stanford                 33            
+2023-10-28 @UCLA                     28  Colorado                 16            
+2023-10-28  San Jose St              35 @Hawaii                    0            
+2023-10-31 @C Michigan               37  N Illinois               31            
+2023-10-31 @Toledo                   31  Buffalo                  13            
+2023-11-01 @Akron                    31  Kent                     27            
+2023-11-01 @Bowling Green            24  Ball St                  21            
+2023-11-02 @Duke                     24  Wake Forest              21            
+2023-11-02 @Texas Tech               35  TCU                      28            
+2023-11-02 @Troy                     28  South Alabama            10            
+2023-11-03  Boston College           17 @Syracuse                 10            
+2023-11-03 @Wyoming                  24  Colorado St              15            
+2023-11-04 @Appalachian St           31  Marshall                  9            
+2023-11-04  UCF                      28 @Cincinnati               26            
+2023-11-04 @Clemson                  31  Notre Dame               23            
+2023-11-04  Tulane                   13 @East Carolina            10            
+2023-11-04  Arkansas                 39 @Florida                  36 O1         
+2023-11-04 @Georgia                  30  Missouri                 21            
+2023-11-04  James Madison            42 @Georgia St               14            
+2023-11-04 @Indiana                  20  Wisconsin                14            
+2023-11-04 @Liberty                  56  Louisiana Tech           30            
+2023-11-04 @Louisville               34  Virginia Tech             3            
+2023-11-04  Penn St                  51 @Maryland                 15            
+2023-11-04 @Massachusetts            31  FCS10                    21            
+2023-11-04 @Michigan                 41  Purdue                   13            
+2023-11-04 @Michigan St              20  Nebraska                 17            
+2023-11-04 @North Carolina           59  FCS10                     7            
+2023-11-04 @NC State                 20  Miami FL                  6            
+2023-11-04  Coastal Car              28 @Old Dominion             24            
+2023-11-04  Florida St               24 @Pittsburgh                7            
+2023-11-04  Ohio St                  35 @Rutgers                  16            
+2023-11-04 @South Carolina           38  Jacksonville St          28            
+2023-11-04 @Temple                   32  Navy                     18            
+2023-11-04 @Tennessee                59  Connecticut               3            
+2023-11-04  Georgia Tech             45 @Virginia                 17            
+2023-11-04 @West Virginia            37  BYU                       7            
+2023-11-04 @Alabama                  42  LSU                      28            
+2023-11-04 @Arkansas St              37  Louisiana                17            
+2023-11-04  Houston                  25 @Baylor                   24 O1         
+2023-11-04  Kansas                   28 @Iowa St                  21            
+2023-11-04 @Memphis                  59  South Florida            50            
+2023-11-04  Illinois                 27 @Minnesota                26            
+2023-11-04  Kentucky                 24 @Mississippi St            3            
+2023-11-04  UT San Antonio           37 @North Texas              29            
+2023-11-04  Iowa                     10 @Northwestern              7           Chicago IL 
+2023-11-04 @Oklahoma St              27  Oklahoma                 24            
+2023-11-04 @Mississippi              38  Texas A&M                35            
+2023-11-04  SMU                      36 @Rice                     31            
+2023-11-04 @Sam Houston St           24  FCS10                    21            
+2023-11-04 @Southern Miss            24  ULM                       7            
+2023-11-04 @Texas                    33  Kansas St                30 O1         
+2023-11-04 @Texas St                 45  Ga Southern              24            
+2023-11-04  Charlotte                33 @Tulsa                    26 O1         
+2023-11-04 @UAB                      45  FL Atlantic              42            
+2023-11-04  Auburn                   31 @Vanderbilt               15            
+2023-11-04  Army                     23 @Air Force                 3           Denver CO 
+2023-11-04  Oregon St                26 @Colorado                 19            
+2023-11-04  UNLV                     56 @New Mexico               14            
+2023-11-04 @New Mexico St            13  MTSU                      7            
+2023-11-04  WKU                      21 @UTEP                     13            
+2023-11-04 @Utah                     55  Arizona St                3            
+2023-11-04 @Arizona                  27  UCLA                     10            
+2023-11-04 @Fresno St                37  Boise St                 30            
+2023-11-04  Hawaii                   27 @Nevada                   14            
+2023-11-04 @Oregon                   63  California               19            
+2023-11-04  Utah St                  32 @San Diego St             24 O2         
+2023-11-04  Washington               52 @USC                      42            
+2023-11-04  Stanford                 10 @Washington St             7            
+2023-11-07  Ohio                     20 @Buffalo                  10            
+2023-11-07 @W Michigan               38  C Michigan               28            
+2023-11-07  Ball St                  20 @N Illinois               17            
+2023-11-08  Bowling Green            49 @Kent                     19            
+2023-11-08 @Miami OH                 19  Akron                     0            
+2023-11-08 @Toledo                   49  E Michigan               23            
+2023-11-09 @Louisville               31  Virginia                 24            
+2023-11-09  Southern Miss            34 @Louisiana                31 O1         
+2023-11-10 @SMU                      45  North Texas              21            
+2023-11-10 @UNLV                     34  Wyoming                  14            
+2023-11-11 @Army                     17  FCS6                     14            
+2023-11-11  Virginia Tech            48 @Boston College           22            
+2023-11-11  Memphis                  44 @Charlotte                38 O1         
+2023-11-11 @Clemson                  42  Georgia Tech             21            
+2023-11-11 @Coastal Car              31  Texas St                 23            
+2023-11-11  East Carolina            22 @FL Atlantic               7            
+2023-11-11 @Florida St               27  Miami FL                 20            
+2023-11-11 @Georgia                  52  Mississippi              17            
+2023-11-11  Appalachian St           42 @Georgia St               14            
+2023-11-11 @James Madison            44  Connecticut               6            
+2023-11-11  Alabama                  49 @Kentucky                 21            
+2023-11-11 @Liberty                  38  Old Dominion             10            
+2023-11-11 @Marshall                 38  Ga Southern              33            
+2023-11-11 @Navy                     31  UAB                       6            
+2023-11-11 @North Carolina           47  Duke                     45 O2         
+2023-11-11 @Ohio St                  38  Michigan St               3            
+2023-11-11  Michigan                 24 @Penn St                  15            
+2023-11-11 @Purdue                   49  Minnesota                30            
+2023-11-11 @South Carolina           47  Vanderbilt                6            
+2023-11-11 @South Florida            27  Temple                   23            
+2023-11-11 @Syracuse                 28  Pittsburgh               13           Bronx NY 
+2023-11-11 @UCF                      45  Oklahoma St               3            
+2023-11-11  NC State                 26 @Wake Forest               6            
+2023-11-11  Auburn                   48 @Arkansas                 10            
+2023-11-11  Cincinnati               24 @Houston                  14            
+2023-11-11 @Illinois                 48  Indiana                  45 O1         
+2023-11-11 @Iowa                     22  Rutgers                   0            
+2023-11-11  Texas Tech               16 @Kansas                   13            
+2023-11-11 @Kansas St                59  Baylor                   25            
+2023-11-11 @LSU                      52  Florida                  35            
+2023-11-11  Sam Houston St           42 @Louisiana Tech           27            
+2023-11-11  Troy                     45 @ULM                      14            
+2023-11-11 @MTSU                     40  Florida Intl              6            
+2023-11-11 @Missouri                 36  Tennessee                 7            
+2023-11-11  Maryland                 13 @Nebraska                 10            
+2023-11-11 @Oklahoma                 59  West Virginia            20            
+2023-11-11 @South Alabama            21  Arkansas St              14            
+2023-11-11  Texas                    29 @TCU                      26            
+2023-11-11 @Texas A&M                51  Mississippi St           10            
+2023-11-11 @Tulane                   24  Tulsa                    22            
+2023-11-11 @UT San Antonio           34  Rice                     14            
+2023-11-11  New Mexico St            38 @WKU                      29            
+2023-11-11  Iowa St                  45 @BYU                      13            
+2023-11-11 @Boise St                 42  New Mexico               14            
+2023-11-11  Arizona                  34 @Colorado                 31            
+2023-11-11 @Colorado St              22  San Diego St             19            
+2023-11-11 @Utah St                  41  Nevada                   24            
+2023-11-11 @California               42  Washington St            39            
+2023-11-11 @Oregon                   36  USC                      27            
+2023-11-11 @Oregon St                62  Stanford                 17            
+2023-11-11 @San Jose St              42  Fresno St                18            
+2023-11-11  Arizona St               17 @UCLA                      7            
+2023-11-11 @Washington               35  Utah                     28            
+2023-11-11 @Hawaii                   27  Air Force                13            
+2023-11-11  Northwestern             24 @Wisconsin                10            
+2023-11-14  Toledo                   32 @Bowling Green            31            
+2023-11-14 @E Michigan               30  Akron                    27 O2         
+2023-11-14 @N Illinois               24  W Michigan                0            
+2023-11-15 @Miami OH                 23  Buffalo                  10            
+2023-11-15 @Ohio                     34  C Michigan               20            
+2023-11-16 @Pittsburgh               24  Boston College           16            
+2023-11-17 @UT San Antonio           49  South Florida            21            
+2023-11-17 @Washington St            56  Colorado                 14            
+2023-11-18 @Army                     28  Coastal Car              21            
+2023-11-18 @Ball St                  34  Kent                      3            
+2023-11-18  Rice                     28 @Charlotte                 7            
+2023-11-18 @Clemson                  31  North Carolina           20            
+2023-11-18 @Connecticut              31  FCS10                     3            
+2023-11-18  Tulane                   24 @FL Atlantic               8            
+2023-11-18 @Florida St               58  FCS10                    13            
+2023-11-18  Old Dominion             20 @Ga Southern              17            
+2023-11-18 @Georgia Tech             31  Syracuse                 22            
+2023-11-18  Michigan St              24 @Indiana                  21            
+2023-11-18  Appalachian St           26 @James Madison            23 O1         
+2023-11-18 @Liberty                  49  Massachusetts            25            
+2023-11-18  Michigan                 31 @Maryland                 24            
+2023-11-18  Louisville               38 @Miami FL                 31            
+2023-11-18 @Navy                     10  East Carolina             0            
+2023-11-18 @Notre Dame               45  Wake Forest               7            
+2023-11-18 @Ohio St                  37  Minnesota                 3            
+2023-11-18 @Penn St                  27  Rutgers                   6            
+2023-11-18 @South Carolina           17  Kentucky                 14            
+2023-11-18  Georgia                  38 @Tennessee                10            
+2023-11-18 @Virginia                 30  Duke                     27            
+2023-11-18  NC State                 35 @Virginia Tech            28            
+2023-11-18 @West Virginia            42  Cincinnati               21            
+2023-11-18 @Alabama                  66  FCS10                    10            
+2023-11-18 @Arkansas                 44  Florida Intl             20            
+2023-11-18 @Arkansas St              77  Texas St                 31            
+2023-11-18  New Mexico St            31 @Auburn                   10            
+2023-11-18  Oklahoma St              43 @Houston                  30            
+2023-11-18 @Iowa                     15  Illinois                 13            
+2023-11-18  Texas                    26 @Iowa St                  16            
+2023-11-18 @Jacksonville St          56  Louisiana Tech           17            
+2023-11-18  Kansas St                31 @Kansas                   27            
+2023-11-18 @LSU                      56  Georgia St               14            
+2023-11-18  SMU                      38 @Memphis                  34            
+2023-11-18 @MTSU                     34  UTEP                     30            
+2023-11-18 @Mississippi St           41  Southern Miss            20            
+2023-11-18 @Missouri                 33  Florida                  31            
+2023-11-18 @Northwestern             23  Purdue                   15            
+2023-11-18 @Mississippi              35  ULM                       3            
+2023-11-18 @South Alabama            28  Marshall                  0            
+2023-11-18 @TCU                      42  Baylor                   17            
+2023-11-18 @Texas A&M                38  FCS10                    10            
+2023-11-18 @Texas Tech               24  UCF                      23            
+2023-11-18 @Troy                     31  Louisiana                24            
+2023-11-18  North Texas              35 @Tulsa                    28            
+2023-11-18 @UAB                      34  Temple                   24            
+2023-11-18 @WKU                      28  Sam Houston St           23            
+2023-11-18 @Wisconsin                24  Nebraska                 17 O1         
+2023-11-18  UNLV                     31 @Air Force                27            
+2023-11-18 @Arizona                  42  Utah                     18            
+2023-11-18  Oregon                   49 @Arizona St               13            
+2023-11-18  Oklahoma                 31 @BYU                      24            
+2023-11-18 @Colorado St              30  Nevada                   20            
+2023-11-18  Boise St                 45 @Utah St                  10            
+2023-11-18 @Wyoming                  42  Hawaii                    9            
+2023-11-18  New Mexico               25 @Fresno St                17            
+2023-11-18  Washington               22 @Oregon St                20            
+2023-11-18 @San Jose St              24  San Diego St             13            
+2023-11-18  California               27 @Stanford                 15            
+2023-11-18  UCLA                     38 @USC                      20          Victory Bell  
+2023-11-21  E Michigan               24 @Buffalo                  11            
+2023-11-21  Bowling Green            34 @W Michigan               10            
+2023-11-23  Mississippi              17 @Mississippi St            7          Egg Bowl  
+2023-11-24  Ohio                     25 @Akron                    14            
+2023-11-24  Miami FL                 45 @Boston College           20            
+2023-11-24  Toledo                   32 @C Michigan               17            
+2023-11-24  Iowa                     13 @Nebraska                 10            
+2023-11-24 @Oklahoma                 69  TCU                      45            
+2023-11-24 @Texas                    57  Texas Tech                7            
+2023-11-24 @Oregon                   31  Oregon St                 7          Civil War  
+2023-11-24  Penn St                  42 @Michigan St               0           Detroit MI 
+2023-11-24  Memphis                  45 @Temple                   21            
+2023-11-24  Missouri                 48 @Arkansas                 14            
+2023-11-24 @Tulane                   29  UT San Antonio           16            
+2023-11-24 @Boise St                 27  Air Force                19            
+2023-11-24  Utah St                  44 @New Mexico               41 O2         
+2023-11-25 @Appalachian St           55  Ga Southern              27            
+2023-11-25  Miami OH                 17 @Ball St                  15            
+2023-11-25  Kansas                   49 @Cincinnati               16            
+2023-11-25  James Madison            56 @Coastal Car              14            
+2023-11-25  Connecticut              31 @Massachusetts            18            
+2023-11-25 @Duke                     30  Pittsburgh               19            
+2023-11-25  Tulsa                    29 @East Carolina            27            
+2023-11-25  WKU                      41 @Florida Intl             28            
+2023-11-25  Florida St               24 @Florida                  15            
+2023-11-25  Georgia                  31 @Georgia Tech             23            
+2023-11-25  N Illinois               37 @Kent                     27            
+2023-11-25  Kentucky                 38 @Louisville               31          Governor's Cup  
+2023-11-25 @Marshall                 35  Arkansas St              21            
+2023-11-25 @Michigan                 30  Ohio St                  24            
+2023-11-25 @NC State                 39  North Carolina           20            
+2023-11-25 @Old Dominion             25  Georgia St               24            
+2023-11-25 @Purdue                   35  Indiana                  31            
+2023-11-25  Maryland                 42 @Rutgers                  24            
+2023-11-25  Clemson                  16 @South Carolina            7          Palmetto Bowl  
+2023-11-25 @South Florida            48  Charlotte                14            
+2023-11-25 @Syracuse                 35  Wake Forest              31            
+2023-11-25 @Tennessee                48  Vanderbilt               24            
+2023-11-25 @UCF                      27  Houston                  13            
+2023-11-25  Virginia Tech            55 @Virginia                 17          Commonwealth Cup  
+2023-11-25  Alabama                  27 @Auburn                   24          Iron Bowl  
+2023-11-25  West Virginia            34 @Baylor                   31            
+2023-11-25  Northwestern             45 @Illinois                 43            
+2023-11-25  Iowa St                  42 @Kansas St                35            
+2023-11-25 @LSU                      42  Texas A&M                30            
+2023-11-25 @Louisiana                52  ULM                      21            
+2023-11-25  Wisconsin                28 @Minnesota                14          Paul Bunyan's Axe  
+2023-11-25 @North Texas              45  UAB                      42            
+2023-11-25 @Oklahoma St              40  BYU                      34 O2         
+2023-11-25 @Rice                     24  FL Atlantic              21            
+2023-11-25 @SMU                      59  Navy                     14            
+2023-11-25 @Sam Houston St           23  MTSU                     20            
+2023-11-25  Troy                     35 @Southern Miss            17            
+2023-11-25 @Texas St                 52  South Alabama            44            
+2023-11-25  Arizona                  59 @Arizona St               23            
+2023-11-25 @New Mexico St            20  Jacksonville St          17            
+2023-11-25  Liberty                  42 @UTEP                     28            
+2023-11-25 @Utah                     23  Colorado                 17            
+2023-11-25  Wyoming                  42 @Nevada                    6            
+2023-11-25 @San Diego St             33  Fresno St                18            
+2023-11-25  Notre Dame               56 @Stanford                 23            
+2023-11-25  California               33 @UCLA                      7            
+2023-11-25  San Jose St              37 @UNLV                     31            
+2023-11-25 @Washington               24  Washington St            21          Apple Cup  
+2023-11-25 @Hawaii                   27  Colorado St              24            
+2023-12-01 @Liberty                  49  New Mexico St            35 P        CUSA Championship  
+2023-12-01  Washington               34  Oregon                   31 P        P12 Championship Las Vegas, NV 
+2023-12-02  Alabama                  27  Georgia                  24 P        SEC Championship Atlanta GA 
+2023-12-02  Miami OH                 23  Toledo                   14 P        MAC Championship Detroit MI 
+2023-12-02  Florida St               16  Louisville                6 P        ACC Championship Charlotte NC 
+2023-12-02 @Troy                     49  Appalachian St           23 P        Sun Belt Championship  
+2023-12-02  Michigan                 26  Iowa                      0 P        B10 Championship Indianapolis IN 
+2023-12-02  Texas                    49  Oklahoma St              21 P        B12 Championship Arlington TX 
+2023-12-02  SMU                      26 @Tulane                   14 P        AAC Championship New Orleans 
+2023-12-02  Boise St                 44 @UNLV                     20 P        MWC Championship Las Vegas, NV 
+2023-12-09  Army                     17  Navy                     11           Foxborough MA 
+2023-12-16  Appalachian St           13  Miami OH                  9 P        Cure Bowl Orlando FL 
+2023-12-16  Ohio                     41  Ga Southern              21 P        Myrtle Beach Bowl Conway SC 
+2023-12-16  Jacksonville St          34  Louisiana                31 PO1      New Orleans Bowl New Orleans LA 
+2023-12-16  Fresno St                37  New Mexico St            10 P        New Mexico Bowl Albuquerque NM 
+2023-12-16  Texas Tech               34  California               14 P        Independence Bowl Shreveport LA 
+2023-12-16 @UCLA                     35  Boise St                 22 P        LA Bowl Inglewood CA 
+2023-12-18  WKU                      38  Old Dominion             35 PO1      Toastery Bowl Charlotte NC 
+2023-12-19  UT San Antonio           35  Marshall                 17 P        Frisco Bowl Frisco TX 
+2023-12-21  South Florida            45  Syracuse                  0 P        Boca Raton Bowl Boca Raton FL 
+2023-12-22  Georgia Tech             30  UCF                      17 P        Gasparilla Bowl Tampa FL 
+2023-12-23  Air Force                31  James Madison            21 P        Armed Forces Bowl Fort Worth TX 
+2023-12-23  N Illinois               21  Arkansas St              19 P        Camellia Bowl Montgomery AL 
+2023-12-23  Coastal Car              24  San Jose St              14 P        Hawaii Bowl Honolulu HI 
+2023-12-23 @South Alabama            59  E Michigan               10 P        Ventures Bowl Mobile, AL 
+2023-12-23  Duke                     17  Troy                     10 P        Birmingham Bowl Birmingham AL 
+2023-12-23  Northwestern             14  Utah                      7 P        Las Vegas Bowl Las Vegas NV 
+2023-12-23  Georgia St               45  Utah St                  22 P        Potato Bowl Boise ID 
+2023-12-26  Minnesota                30  Bowling Green            24 P        Quick Lane Bowl Detroit MI 
+2023-12-26  Texas St                 45  Rice                     21 P        First Responder Bowl Dallas TX 
+2023-12-26  Kansas                   49  UNLV                     36 P        Rate Bowl Phoenix AZ 
+2023-12-27  West Virginia            30  North Carolina           10 P        Mayo Bowl Charlotte NC 
+2023-12-27  USC                      42  Louisville               28 P        Holiday Bowl San Diego CA 
+2023-12-27  Oklahoma St              31  Texas A&M                23 P        Texas Bowl Houston TX 
+2023-12-27  Virginia Tech            41  Tulane                   20 P        Military Bowl Annapolis MD 
+2023-12-28  Boston College           23  SMU                      14 P        Fenway Bowl Boston MA 
+2023-12-28  Kansas St                28  NC State                 19 P        Pop-Tarts Bowl Orlando FL 
+2023-12-28  Arizona                  38  Oklahoma                 24 P        Alamo Bowl San Antonio TX 
+2023-12-28  Rutgers                  31  Miami FL                 24 P        Pinstripe Bowl Bronx NY 
+2023-12-29  Clemson                  38  Kentucky                 35 P        Gator Bowl Jacksonville FL 
+2023-12-29 @Memphis                  36  Iowa St                  26 P        Liberty Bowl Memphis TN 
+2023-12-29  Missouri                 14  Ohio St                   3 P        Cotton Bowl Arlington TX 
+2023-12-29  Notre Dame               40  Oregon St                 8 P        Sun Bowl El Paso TX 
+2023-12-30  Maryland                 31  Auburn                   13 P        Music City Bowl Nashville TN 
+2023-12-30  Georgia                  63  Florida St                3 P        Orange Bowl Miami FL 
+2023-12-30  Mississippi              38  Penn St                  25 P        Peach Bowl Atlanta GA 
+2023-12-30  Wyoming                  16  Toledo                   15 P        Arizona Bowl Tucson AZ 
+2024-01-01  Michigan                 27  Alabama                  20 PO1      Rose Bowl, CFP Semi Pasadena CA 
+2024-01-01  LSU                      35  Wisconsin                31 P        ReliaQuest Bowl Tampa FL 
+2024-01-01  Oregon                   45  Liberty                   6 P        Fiesta Bowl Glendale AZ 
+2024-01-01  Tennessee                35  Iowa                      0 P        Citrus Bowl Orlando FL 
+2024-01-01  Washington               37  Texas                    31 P        Sugar Bowl, CFP Semi New Orleans LA 

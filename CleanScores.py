@@ -1,7 +1,7 @@
 import numpy as np
 
-scoreFile = './scores/nbascores.txt'
-saveFile = './scores/nbaScoresClean.txt'
+scoreFile = './scores/FBSscores.txt'
+saveFile = './scores/FBSscoresClean.txt'
 
 f = open(scoreFile,'r')
 lines = f.readlines()
@@ -15,7 +15,6 @@ for line in lines:
     teams.add(loser)
 
 teams = sorted(teams)
-print(teams)
 sf = open(saveFile, 'w')
 sf.write("NumTeams: " + str(len(teams)) + "\n")
 for t in teams:

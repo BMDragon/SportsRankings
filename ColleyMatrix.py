@@ -1,8 +1,8 @@
 import numpy as np
 import operator
 
-scoreFile = './scores/nbaScoresClean.txt'
-saveFile = './rankings/NBAColley.txt'
+scoreFile = './scores/FBSscoresClean.txt'
+saveFile = './rankings/FBSColley.txt'
 
 f = open(scoreFile,'r')
 lines = f.readlines()
